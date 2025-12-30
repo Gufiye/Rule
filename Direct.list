@@ -1,7 +1,55 @@
 DOMAIN-KEYWORD,hifini
-DOMAIN-KEYWORD,airstarbank
-DOMAIN-KEYWORD,antbank
+# =========================
+# 香港银行
+# =========================
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcamanah.com
+
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
+
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochk.com.hk
+
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,standardchartered.com.hk
+
+DOMAIN-SUFFIX,citibank.com.hk
+DOMAIN-SUFFIX,citi.com
+
+DOMAIN-SUFFIX,hkbea.com
+DOMAIN-SUFFIX,bea.com.hk
+
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zabank.com
 DOMAIN-KEYWORD,zafinsvc
-DOMAIN,appguard.za.group
-DOMAIN,bankappgw.za.group
-DOMAIN-KEYWORD,wise
+
+
+DOMAIN-SUFFIX,airstarbank.com
+
+
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,welab.co
+
+DOMAIN-SUFFIX,antbank.hk
+
+
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+
+
+
+# =========================
+# 国内银行
+# =========================
+# 兴业银行
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,cibnet.com.cn
+DOMAIN-KEYWORD,cib
+
+# 农业银行
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,abchina.net
+DOMAIN-KEYWORD,abchina
