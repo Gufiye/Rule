@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,interactivebrokers.com
 # Tradingview
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tradingviewstore.com
+
+# weather
+DOMAIN-SUFFIX,weather.com
