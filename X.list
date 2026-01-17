@@ -1,6 +1,7 @@
 [Rule]
 # X 主域名流量
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,api.x.com
 DOMAIN-SUFFIX,pbs.x.com
 DOMAIN-SUFFIX,video.x.com
@@ -37,3 +38,4 @@ DOMAIN-SUFFIX,video.x.com
 
 # X 流量
 DOMAIN-SUFFIX,x.com
+
