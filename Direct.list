@@ -76,14 +76,10 @@ DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intel.cn
 DOMAIN-KEYWORD,intel
 
-cdn.userway.org
-cdn77.api.userway.org
-api.userway.org
-js.zi-scripts.com
-static.cloud.coveo.com
 
 # IBKR 轻站
 DOMAIN-SUFFIX,ibkr.com
+
 
 
 
