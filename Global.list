@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,tradingviewstore.com
 
 # weather
 DOMAIN-SUFFIX,weather.com
+
+# spotify
+DOMAIN,open.spotify.com
