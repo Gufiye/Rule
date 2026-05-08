@@ -14,6 +14,13 @@ DOMAIN-SUFFIX,samsungqbe.com
 DOMAIN-SUFFIX,sspapi-prd.samsungrs.com
 DOMAIN-SUFFIX,collect.ureca-lab.com
 DOMAIN-SUFFIX,api.glb.samsung-gamelauncher.com
-DOMAIN-SUFFIX,client.smartthings.com
-
-
+DOMAIN-SUFFIX,ers.samsungcloudplatform.com
+DOMAIN-SUFFIX,api.samsungknowledge.com
+DOMAIN-SUFFIX,api-promo.samsungknowledge.com
+DOMAIN-SUFFIX,cfota2.ospserver.net
+DOMAIN-SUFFIX,dms.ospserver.net
+DOMAIN-SUFFIX,api.goodlocklabs.com
+DOMAIN-SUFFIX,api.samsungconsent.com
+DOMAIN-KEYWORD,smartthings
+DOMAIN-KEYWORD,smartswitch
+DOMAIN-KEYWORD,samsunghealth
