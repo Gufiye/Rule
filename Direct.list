@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,visitor-service-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,collect-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,tags.tiqcdn.com
 DOMAIN-SUFFIX,mobile.eum-appdynamics.com
-
+DOMAIN-SUFFIX,cdn.optimizely.com
 
 
 
@@ -58,8 +58,10 @@ DOMAIN-SUFFIX,antbank.hk
 
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,transferwise.com
-
-
+DOMAIN-SUFFIX,api.sardine.ai
+DOMAIN-SUFFIX,sdk.fra-01.braze.eu
+DOMAIN-SUFFIX,api.mixpanel.com
+DOMAIN-SUFFIX,sdk-api-v1.singular.net
 
 # =========================
 # 国内银行
