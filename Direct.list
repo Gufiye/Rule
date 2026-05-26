@@ -102,6 +102,10 @@ DOMAIN-KEYWORD,intel
 
 # IBKR 轻站
 DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,c.go-mpulse.net
+DOMAIN-SUFFIX,s.go-mpulse.net
+
+
 
 # 局域网全部直连
 IP-CIDR,192.168.0.0/16,no-resolve
