@@ -17,8 +17,6 @@ DOMAIN-SUFFIX,api.glb.samsung-gamelauncher.com
 DOMAIN-SUFFIX,ers.samsungcloudplatform.com
 DOMAIN-SUFFIX,api.samsungknowledge.com
 DOMAIN-SUFFIX,api-promo.samsungknowledge.com
-DOMAIN-SUFFIX,cfota2.ospserver.net
-DOMAIN-SUFFIX,dms.ospserver.net
 DOMAIN-SUFFIX,api.goodlocklabs.com
 DOMAIN-SUFFIX,api.samsungconsent.com
 DOMAIN-KEYWORD,smartthings
