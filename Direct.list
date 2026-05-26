@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,collect-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,tags.tiqcdn.com
 DOMAIN-SUFFIX,mobile.eum-appdynamics.com
 DOMAIN-SUFFIX,cdn.optimizely.com
-
+DOMAIN-KEYWORD,hsbc
 
 
 DOMAIN-SUFFIX,hangseng.com
@@ -112,6 +112,12 @@ DOMAIN-SUFFIX,sdc1.ibllc.com
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
+
+
+# 局域网全部直连
+DOMAIN-SUFFIX,login.microsoftonline.com
+
+
 
 
 # 阿里
