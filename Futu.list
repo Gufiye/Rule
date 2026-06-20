@@ -1,9 +1,8 @@
 # 富途牛牛
-DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futu.link
-DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futu.cn
+DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futu0.com
 DOMAIN-SUFFIX,futu1.com
 DOMAIN-SUFFIX,futu2.com
@@ -14,20 +13,43 @@ DOMAIN-SUFFIX,futu6.com
 DOMAIN-SUFFIX,futu7.com
 DOMAIN-SUFFIX,futu8.com
 DOMAIN-SUFFIX,futu9.com
+DOMAIN-SUFFIX,futuau.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhk2.com
+DOMAIN-SUFFIX,futuhkapp.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futuinc.com
 DOMAIN-SUFFIX,futuniuniu.com
-DOMAIN-SUFFIX,futu.cn
-DOMAIN-SUFFIX,futufin.com
-DOMAIN-SUFFIX,futuhk2.com
-DOMAIN-SUFFIX,futuholdings.com
-DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futubull.cn
 DOMAIN-SUFFIX,futuchain.com
-DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
-DOMAIN-SUFFIX,shortconn.im.qcloud.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,cdn.futustatic.com
+
+
+# MOOMOO
+DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,api.moomoobull.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com
+
+
+
+# SDK
+DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
+DOMAIN-SUFFIX,shortconn.im.qcloud.com
+
+
+
+
+
+
+
 
 
 IP-CIDR,1.14.242.0/23,no-resolve
@@ -68,16 +90,23 @@ IP-CIDR,170.106.62.0/24,no-resolve
 IP-CIDR,183.60.225.0/24,no-resolve
 IP-CIDR,193.112.84.0/24,no-resolve
 IP-CIDR,193.112.234.0/24,no-resolve
+
+
+
 IP-CIDR,43.134.158.106/32,no-resolve
 IP-CIDR,43.132.138.6/32,no-resolve
 IP-CIDR,119.28.201.30/32,no-resolve
 IP-CIDR,49.51.77.113/32,no-resolve
-IP-CIDR,43.134.158.106/32,no-resolve
 IP-CIDR,43.153.234.107/32,no-resolve
 IP-CIDR,43.153.249.33/32,no-resolve
 IP-CIDR,43.163.17.229/32,no-resolve
-
-
+IP-CIDR,170.106.201.0/24,no-resolve
+IP-CIDR,175.178.207.0/24,no-resolve
+IP-CIDR,42.194.152.250/32,no-resolve
+IP-CIDR,43.132.106.6/32,no-resolve
+IP-CIDR,43.132.106.8/32,no-resolve
+IP-CIDR,43.132.138.67/32,no-resolve
+IP-CIDR,1.15.158.235/32,no-resolve
 
 
 
