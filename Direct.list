@@ -86,11 +86,8 @@ DOMAIN-KEYWORD,intel
 
 
 # IBKR 轻站
-DOMAIN-SUFFIX,ibkr.com
-DOMAIN-SUFFIX,c.go-mpulse.net
-DOMAIN-SUFFIX,s.go-mpulse.net
-DOMAIN-SUFFIX,sdc1.ibllc.com
-
+DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibllc.com.cn
 
 
 # 局域网全部直连
