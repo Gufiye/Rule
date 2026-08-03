@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
+DOMAIN-SUFFIX,collect.moomoobull.com
 
 
 
@@ -59,6 +60,7 @@ IP-CIDR,42.193.128.0/24,no-resolve
 IP-CIDR,43.130.30.0/24,no-resolve
 IP-CIDR,43.130.170.0/24,no-resolve
 IP-CIDR,43.132.107.0/24,no-resolve
+IP-CIDR,43.134.159.0/24,no-resolve
 IP-CIDR,43.135.64.0/24,no-resolve
 IP-CIDR,43.135.82.0/24,no-resolve
 IP-CIDR,43.142.232.0/24,no-resolve
@@ -69,6 +71,7 @@ IP-CIDR,43.160.156.0/24,no-resolve
 IP-CIDR,49.51.78.0/24,no-resolve
 IP-CIDR,49.234.241.0/24,no-resolve
 IP-CIDR,101.32.198.0/24,no-resolve
+IP-CIDR,101.32.56.0/24,no-resolve
 IP-CIDR,106.55.66.0/23,no-resolve
 IP-CIDR,111.230.119.0/24,no-resolve
 IP-CIDR,111.230.214.0/24,no-resolve
@@ -97,9 +100,15 @@ IP-CIDR,43.134.158.106/32,no-resolve
 IP-CIDR,43.132.138.6/32,no-resolve
 IP-CIDR,119.28.201.30/32,no-resolve
 IP-CIDR,49.51.77.113/32,no-resolve
+IP-CIDR,49.51.79.237/32,no-resolve
 IP-CIDR,43.153.234.107/32,no-resolve
 IP-CIDR,43.153.249.33/32,no-resolve
+IP-CIDR,43.163.16.28/32,no-resolve
+IP-CIDR,43.163.17.223/32,no-resolve
 IP-CIDR,43.163.17.229/32,no-resolve
+IP-CIDR,43.163.17.223/32,no-resolve
+IP-CIDR,43.163.63.148/32,no-resolve
+IP-CIDR,101.32.70.122/32,no-resolve
 IP-CIDR,170.106.201.0/24,no-resolve
 IP-CIDR,175.178.207.0/24,no-resolve
 IP-CIDR,42.194.152.250/32,no-resolve
