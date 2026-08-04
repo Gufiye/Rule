@@ -103,6 +103,7 @@ IP-CIDR,49.51.77.113/32,no-resolve
 IP-CIDR,49.51.79.237/32,no-resolve
 IP-CIDR,43.153.234.107/32,no-resolve
 IP-CIDR,43.153.249.33/32,no-resolve
+IP-CIDR,43.153.165.242/32,no-resolve
 IP-CIDR,43.163.16.28/32,no-resolve
 IP-CIDR,43.163.17.223/32,no-resolve
 IP-CIDR,43.163.17.229/32,no-resolve
