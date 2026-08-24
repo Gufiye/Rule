@@ -48,6 +48,19 @@ DOMAIN-SUFFIX,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
 
+# ifast
+# =========================
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,eu01.zimperium.com
+DOMAIN-SUFFIX,eu01-cdn.zimperium.com
+DOMAIN-SUFFIX,cdn.zimperium.com
+DOMAIN-SUFFIX,static.ifastgb.com
+DOMAIN-KEYWORD,ifastgb
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-KEYWORD,zimperium
+
+
+
 # =========================
 # 国内银行
 # =========================
