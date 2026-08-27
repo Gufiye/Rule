@@ -2,6 +2,11 @@
 # 香港银行
 # =========================
 DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,h64.online-metrix.net
+DOMAIN-SUFFIX,aa.online-metrix.net
+DOMAIN-SUFFIX,log-58144bf0.we-stats.com
+DOMAIN-SUFFIX,tags.tiqcdn.com
+DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-KEYWORD,hsbc
 
 DOMAIN-SUFFIX,hangseng.com
