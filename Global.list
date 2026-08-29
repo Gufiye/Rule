@@ -42,5 +42,8 @@ DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,icloud.com
 
 #fcm
-firebaseinstallations.googleapis.com
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 
+
+#ifast
+DOMAIN-SUFFIX,ifastgb.com
