@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,securemetrics.apple.com
 #samsung
 DOMAIN-SUFFIX,api.samsungcloud.com
 DOMAIN-SUFFIX,api.mop.apps.samsung.com
+DOMAIN-SUFFIX,shop.samsung.com
+DOMAIN-SUFFIX,poll.gras.samsungdm.com
+DOMAIN-SUFFIX,account.samsung.com
 
 #ifast
 DOMAIN-SUFFIX,ifastgb.com
