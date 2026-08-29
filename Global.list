@@ -43,7 +43,8 @@ DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,securemetrics.apple.com
 
 #samsung
-DOMAIN-SUFFIX, api.samsungcloud.com
+DOMAIN-SUFFIX,api.samsungcloud.com
+DOMAIN-SUFFIX,api.mop.apps.samsung.com
 
 #ifast
 DOMAIN-SUFFIX,ifastgb.com
