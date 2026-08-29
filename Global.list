@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,transferwise.com
 
 #icloud
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,securemetrics.apple.com
 
 #fcm
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
