@@ -2,11 +2,6 @@
 # 香港银行
 # =========================
 DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN-SUFFIX,h64.online-metrix.net
-DOMAIN-SUFFIX,aa.online-metrix.net
-DOMAIN-SUFFIX,log-58144bf0.we-stats.com
-DOMAIN-SUFFIX,tags.tiqcdn.com
-DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-KEYWORD,hsbc
 
 DOMAIN-SUFFIX,hangseng.com
@@ -30,12 +25,11 @@ DOMAIN-SUFFIX,bea.com.hk
 
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zabank.com
-DOMAIN-KEYWORD,zafinsvc
 
 
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-SUFFIX,elebank.com
-DOMAIN-SUFFIX,sfdyyy.launches.appsflyersdk.com
+
 
 
 
