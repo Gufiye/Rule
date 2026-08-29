@@ -47,3 +47,6 @@ DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 
 #ifast
 DOMAIN-SUFFIX,ifastgb.com
+
+#moomoo
+DOMAIN-SUFFIX,api.moomoobull.com
