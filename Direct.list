@@ -39,12 +39,8 @@ DOMAIN-SUFFIX,welab.co
 DOMAIN-SUFFIX,antbank.hk
 
 
-DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,transferwise.com
-DOMAIN-SUFFIX,api.sardine.ai
-DOMAIN-SUFFIX,sdk.fra-01.braze.eu
-DOMAIN-SUFFIX,api.mixpanel.com
-DOMAIN-SUFFIX,sdk-api-v1.singular.net
+
+
 
 # ifast
 # =========================
