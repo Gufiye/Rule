@@ -63,23 +63,19 @@ DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,asus.com.hk
 DOMAIN-SUFFIX,rog.asus.com
-DOMAIN-KEYWORD,asus
-DOMAIN-KEYWORD,rog
+
 
 # AMD
-DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amd.com.cn
-DOMAIN-KEYWORD,amd
+
 
 # NVIDIA
-DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nvidia.cn
-DOMAIN-KEYWORD,nvidia
+
 
 # Intel
-DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intel.cn
-DOMAIN-KEYWORD,intel
+
 
 
 # IBKR 轻站
