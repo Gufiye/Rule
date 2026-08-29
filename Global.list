@@ -32,3 +32,8 @@ DOMAIN-SUFFIX,cdcdyn.interactivebrokers.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tradingviewstore.com
 DOMAIN-KEYWORD,tradingview
+
+
+#Wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
