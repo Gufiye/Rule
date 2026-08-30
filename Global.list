@@ -34,6 +34,14 @@ DOMAIN-SUFFIX,tradingviewstore.com
 DOMAIN-KEYWORD,tradingview
 
 
+#wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+
+#ifastgb
+DOMAIN-SUFFIX,ifastgb.com
+
+
 #moomoo
 DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,shortsgp.im.qcloud.com
