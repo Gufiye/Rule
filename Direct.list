@@ -3,44 +3,21 @@
 # =========================
 
 
-DOMAIN-SUFFIX,hangseng.com
-DOMAIN-SUFFIX,hangseng.com.hk
+DOMAIN-SUFFIX,hsbc.com
+
+DOMAIN-SUFFIX,ifastgb.com
+
+DOMAIN-SUFFIX,wise.com
 
 DOMAIN-SUFFIX,bochk.com
-DOMAIN-SUFFIX,bochk.com.hk
-
-
-
-DOMAIN-SUFFIX,sc.com
-DOMAIN-SUFFIX,standardchartered.com.hk
-
-DOMAIN-SUFFIX,citibank.com.hk
-DOMAIN-SUFFIX,citi.com
-
-DOMAIN-SUFFIX,hkbea.com
-DOMAIN-SUFFIX,bea.com.hk
 
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zabank.com
 
-
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-SUFFIX,elebank.com
 
-
-
-
-
-DOMAIN-SUFFIX,welab.bank
-DOMAIN-SUFFIX,welab.co
-
 DOMAIN-SUFFIX,antbank.hk
-
-
-
-
-
-
 
 
 # =========================
