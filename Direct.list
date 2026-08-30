@@ -56,24 +56,6 @@ DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.net
 DOMAIN-KEYWORD,abchina
 
-# ASUS / ROG
-DOMAIN-SUFFIX,asus.com
-DOMAIN-SUFFIX,asus.com.cn
-DOMAIN-SUFFIX,asus.com.hk
-DOMAIN-SUFFIX,rog.asus.com
-
-
-# AMD
-DOMAIN-SUFFIX,amd.com.cn
-
-
-# NVIDIA
-DOMAIN-SUFFIX,nvidia.cn
-
-
-# Intel
-DOMAIN-SUFFIX,intel.cn
-
 
 
 # IBKR 轻站
