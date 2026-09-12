@@ -79,6 +79,15 @@ DOMAIN-SUFFIX,apple.com.cn
 
 
 
+# Samsung
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,goodlocklabs.com
+DOMAIN-SUFFIX,samsungknowledge.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-KEYWORD,samsung
+
+
 
 
 # 阿里
