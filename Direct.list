@@ -2,8 +2,11 @@
 # 香港银行
 # =========================
 
-
+# 中银香港
 DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochk01.etnet.com.hk
+DOMAIN-SUFFIX,bochk02.etnet.com.hk
+
 
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zabank.com
