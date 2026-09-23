@@ -7,13 +7,15 @@ DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bochk01.etnet.com.hk
 DOMAIN-SUFFIX,bochk02.etnet.com.hk
 
-
+# ZA Bank
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zabank.com
 
+# Elebank
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-SUFFIX,elebank.com
 
+# Ant Bnak
 DOMAIN-SUFFIX,antbank.hk
 
 
