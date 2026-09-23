@@ -6,13 +6,8 @@ DOMAIN-SUFFIX,supercell.net
 DOMAIN-SUFFIX,supercellcdn.com
 
 DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,open.spotify.com
 
 #Tradingview
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tradingviewstore.com
 DOMAIN-KEYWORD,tradingview
-
-#moomoo
-DOMAIN-SUFFIX,api.moomoobull.com
-DOMAIN-SUFFIX,shortsgp.im.qcloud.com
