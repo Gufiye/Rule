@@ -22,7 +22,8 @@ DOMAIN-SUFFIX,antbank.hk
 # =========================
 # 兴业银行
 DOMAIN-SUFFIX,cib.com.cn
-DOMAIN-SUFFIX,cibnet.com.cn
+DOMAIN-SUFFIX,cibnet.com.cn
+
 
 # 农业银行
 DOMAIN-SUFFIX,abchina.com
@@ -57,9 +58,7 @@ DOMAIN-KEYWORD,samsung
 # Tencent域名
 IP-ASN,132203,DIRECT,no-resolve
 
-# Futunn域名
-DOMAIN-SUFFIX,futunn.com
-DOMAIN-SUFFIX,cdn.futustatic.com
+
 
 
 
