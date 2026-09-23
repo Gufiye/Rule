@@ -19,8 +19,7 @@ DOMAIN-SUFFIX,antbank.hk
 # =========================
 # 兴业银行
 DOMAIN-SUFFIX,cib.com.cn
-DOMAIN-SUFFIX,cibnet.com.cn
-DOMAIN-KEYWORD,cib
+DOMAIN-SUFFIX,cibnet.com.cn
 
 # 农业银行
 DOMAIN-SUFFIX,abchina.com
@@ -30,7 +29,7 @@ DOMAIN-KEYWORD,abchina
 
 
 # IBKR 轻站
-DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,mcgw1.ibllc.com.cn
 DOMAIN-SUFFIX,mcgw1-hb1.ibllc.com.cn
 DOMAIN-SUFFIX,mcgw1-hb2.ibllc.com.cn
