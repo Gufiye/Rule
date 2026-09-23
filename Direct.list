@@ -51,6 +51,12 @@ DOMAIN-SUFFIX,samsungcloud.com
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-KEYWORD,samsung
 
+# Tencent域名
+IP-ASN,132203,DIRECT,no-resolve
+
+
+
+
 
 
 
