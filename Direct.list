@@ -31,7 +31,10 @@ DOMAIN-KEYWORD,abchina
 
 # IBKR 轻站
 DOMAIN-SUFFIX,ibkr.com.cn
-DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-SUFFIX,mcgw1.ibllc.com.cn
+DOMAIN-SUFFIX,mcgw1-hb1.ibllc.com.cn
+DOMAIN-SUFFIX,mcgw1-hb2.ibllc.com.cn
+
 
 
 # 局域网全部直连
