@@ -8,4 +8,5 @@ DOMAIN-SUFFIX,confnn.futuhn.com
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomoobull.com
 
-
+# ASN地址
+IP-ASN,139341,DIRECT,no-resolve 
