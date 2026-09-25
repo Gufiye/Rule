@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
 DOMAIN-SUFFIX,collect-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,c-hsbc.lytics.io
 DOMAIN-SUFFIX,hsbc.edge.sdk.awswaf.com
+DOMAIN,cdn.optimizely.com
+
 
 
 # ZA Bank
