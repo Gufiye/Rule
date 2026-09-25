@@ -17,8 +17,10 @@ DOMAIN-SUFFIX,ause1.pusher.liveperson.net
 DOMAIN-SUFFIX,ause1.idp.liveperson.net
 DOMAIN-SUFFIX,visitor-service-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com
+DOMAIN-SUFFIX,eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
 DOMAIN-SUFFIX,collect-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,c-hsbc.lytics.io
+DOMAIN-SUFFIX,hsbc.edge.sdk.awswaf.com
 
 
 # ZA Bank
