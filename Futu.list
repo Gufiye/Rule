@@ -18,29 +18,6 @@ DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
 DOMAIN-SUFFIX,shortconn.im.qcloud.com
 
 
-
-
-# IP CIDR大范围地址
-IP-CIDR,38.65.217.0/24,no-resolve
-IP-CIDR,42.193.128.0/24,no-resolve
-IP-CIDR,43.130.30.0/24,no-resolve
-IP-CIDR,43.130.170.0/24,no-resolve
-IP-CIDR,43.135.64.0/24,no-resolve
-IP-CIDR,43.153.191.0/24,no-resolve
-IP-CIDR,43.153.233.0/24,no-resolve
-IP-CIDR,43.160.156.0/24,no-resolve
-IP-CIDR,49.51.78.0/24,no-resolve
-IP-CIDR,101.32.198.0/24,no-resolve
-IP-CIDR,101.32.56.0/24,no-resolve
-IP-CIDR,119.28.141.0/24,no-resolve
-IP-CIDR,124.156.233.0/24,no-resolve
-IP-CIDR,124.156.234.0/24,no-resolve
-IP-CIDR,162.14.10.0/24,no-resolve
-IP-CIDR,170.106.48.0/23,no-resolve
-IP-CIDR,170.106.62.0/24,no-resolve
-IP-CIDR,193.112.234.0/24,no-resolve
-
-
 # IP 精确匹配
 IP-CIDR,1.14.242.49/32,no-resolve
 IP-CIDR,1.14.242.168/32,no-resolve
