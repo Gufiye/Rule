@@ -57,23 +57,5 @@ DOMAIN-SUFFIX,samsungcloud.com
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-KEYWORD,samsung
 
-# Tencent域名
-IP-ASN,132203,DIRECT,no-resolve
-
-# Alibaba域名
-IP-ASN,24429,DIRECT,no-resolve
-IP-ASN,45102,DIRECT,no-resolve
-IP-ASN,134963,DIRECT,no-resolve
-
-
-# XHS域名
-IP-ASN,151326,DIRECT,no-resolve
-IP-ASN,139057,DIRECT,no-resolve
-IP-ASN,63139,DIRECT,no-resolve
-IP-ASN,138915,DIRECT,no-resolve
-IP-ASN,141180,DIRECT,no-resolve
-IP-CIDR,13.226.69.128/32
-IP-CIDR,13.32.99.26/32
-IP-CIDR,13.32.99.44/32
 
 
