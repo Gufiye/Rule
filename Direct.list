@@ -11,19 +11,29 @@ DOMAIN-SUFFIX,bochk02.etnet.com.hk
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,tags.tiqcdn.com
 DOMAIN-SUFFIX,accdn.lpsnmedia.net
+DOMAIN-SUFFIX,akamai.tiqcdn.com
 DOMAIN-SUFFIX,lpcdn-vip.lpsnmedia.net
+DOMAIN-SUFFIX,lptag.liveperson.net
 DOMAIN-SUFFIX,sy.v.liveperson.net
+DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,mobile.eum-appdynamics.com
 DOMAIN-SUFFIX,ause1.pusher.liveperson.net
 DOMAIN-SUFFIX,ause1.idp.liveperson.net
+DOMAIN-SUFFIX,col.eum-appdynamics.com
+DOMAIN-SUFFIX,cdn.appdynamics.com
+DOMAIN-SUFFIX,sp.analytics.yahoo.com
 DOMAIN-SUFFIX,visitor-service-ap-east-1.tealiumiq.com
+DOMAIN-SUFFIX,visitor-service-ap-northeast-1.tealiumiq.com
 DOMAIN-SUFFIX,messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com
 DOMAIN-SUFFIX,eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
 DOMAIN-SUFFIX,collect-ap-east-1.tealiumiq.com
-DOMAIN-SUFFIX,c-hsbc.lytics.io
+DOMAIN-SUFFIX,collect-ap-northeast-1.tealiumiq.comDOMAIN-SUFFIX,c-hsbc.lytics.io
+DOMAIN-SUFFIX,match.adsrvr.org
 DOMAIN-SUFFIX,hsbc.edge.sdk.awswaf.com
+DOMAIN-SUFFIX,datacloud.tealiumiq.com
 DOMAIN,cdn.optimizely.com
-
+DOMAIN,a19069622224.cdn.optimizely.com
+DOMAIN,logx.optimizely.com
 
 
 # ZA Bank
