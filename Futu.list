@@ -3,10 +3,12 @@ DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,cdn.futustatic.com
 DOMAIN-SUFFIX,confnn.futuhn.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-KEYWORD,futu
 
 # moomoo域名
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomoobull.com
+DOMAIN-KEYWORD,moomooo
 
 # 消息推送
 DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
