@@ -7,13 +7,32 @@ DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bochk01.etnet.com.hk
 DOMAIN-SUFFIX,bochk02.etnet.com.hk
 
+# HSBC HK
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,tags.tiqcdn.com
+DOMAIN-SUFFIX,accdn.lpsnmedia.net
+DOMAIN-SUFFIX,sy.v.liveperson.net
+DOMAIN-SUFFIX,mobile.eum-appdynamics.com
+DOMAIN-SUFFIX,ause1.pusher.liveperson.net
+DOMAIN-SUFFIX,ause1.idp.liveperson.net
+DOMAIN-SUFFIX,visitor-service-ap-east-1.tealiumiq.com
+DOMAIN-SUFFIX,messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com
+DOMAIN-SUFFIX,collect-ap-east-1.tealiumiq.com
+DOMAIN-SUFFIX,c-hsbc.lytics.io
+
+
 # ZA Bank
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zabank.com
+DOMAIN-SUFFIX,zmr2l0.inapps.appsflyersdk.com
+
 
 # Elebank
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-SUFFIX,elebank.com
+DOMAIN-SUFFIX,sfdyyy.launches.appsflyersdk.com
+DOMAIN-SUFFIX,sfdyyy.cdn-settings.appsflyersdk.com
+
 
 # Ant Bnak
 DOMAIN-SUFFIX,antbank.hk
@@ -31,6 +50,15 @@ DOMAIN-SUFFIX,cibnet.com.cn
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.net
 DOMAIN-KEYWORD,abchina
+
+
+# Wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,sdk.fra-01.braze.eu
+DOMAIN-SUFFIX,sdk-api-v1.singular.net
+DOMAIN-SUFFIX,api.mixpanel.com
+
+
 
 
 
