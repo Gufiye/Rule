@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
 
 # 腾讯云即时通信
 DOMAIN-SUFFIX,shortconn.im.qcloud.com
+DOMAIN-SUFFIX,shortsgp.im.qcloud.com
 
 
 # IP 精确匹配
@@ -54,6 +55,7 @@ IP-CIDR,49.234.241.65/32,no-resolve
 IP-CIDR,49.234.241.94/32,no-resolve
 IP-CIDR,101.32.70.122/32,no-resolve
 IP-CIDR,101.32.104.226/32,no-resolve
+IP-CIDR,101.32.143.6/32,no-resolve
 IP-CIDR,101.33.192.94/32,no-resolve
 IP-CIDR,106.55.66.8/32,no-resolve
 IP-CIDR,106.55.66.56/32,no-resolve
