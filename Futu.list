@@ -93,6 +93,7 @@ IP-CIDR,119.91.245.213/32,no-resolve
 IP-CIDR,119.147.110.185/32,no-resolve
 IP-CIDR,119.147.179.186/32,no-resolve
 IP-CIDR,119.147.179.231/32,no-resolve
+IP-CIDR,120.233.50.25/32,no-resolve
 IP-CIDR,121.5.97.110/32,no-resolve
 IP-CIDR,121.5.99.18/32,no-resolve
 IP-CIDR,121.5.99.180/32,no-resolve
