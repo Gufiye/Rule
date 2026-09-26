@@ -13,6 +13,8 @@ DOMAIN-KEYWORD,moomooo
 # 消息推送
 DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
+DOMAIN-SUFFIX,sgqt0j.cdn-settings.appsflyersdk.com
+
 
 # 腾讯云即时通信
 DOMAIN-SUFFIX,shortconn.im.qcloud.com
