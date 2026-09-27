@@ -12,7 +12,7 @@ DOMAIN-KEYWORD,moomooo
 
 # 消息推送
 DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
-DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
+DOMAIN-SUFFIX,9oju31.cdn-settings.appsflyersdk.comDOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgqt0j.cdn-settings.appsflyersdk.com
 
 
@@ -111,8 +111,9 @@ IP-CIDR,111.230.119.192/32,no-resolve
 IP-CIDR,111.230.214.196/32,no-resolve
 IP-CIDR,111.230.214.240/32,no-resolve
 
-# IP 114.X.X.X(3条)
+# IP 114.X.X.X(4条)
 IP-CIDR,114.132.28.66/32,no-resolve
+IP-CIDR,114.221.151.180/32,no-resolve
 IP-CIDR,114.221.151.221/32,no-resolve
 IP-CIDR,114.222.114.248/32,no-resolve
 
@@ -199,8 +200,9 @@ IP-CIDR,183.60.225.232/32,no-resolve
 IP-CIDR,193.112.84.42/32,no-resolve
 IP-CIDR,193.112.230.251/32,no-resolve
 
-# IP 221.X.X.X(4条)
+# IP 221.X.X.X(5条)
 IP-CIDR,221.229.52.173/32,no-resolve
+IP-CIDR,221.229.52.176/32,no-resolve
 IP-CIDR,221.229.52.198/32,no-resolve
 IP-CIDR,221.229.52.217/32,no-resolve
 IP-CIDR,221.229.52.251/32,no-resolve
