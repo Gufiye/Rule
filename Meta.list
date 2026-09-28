@@ -6,17 +6,22 @@ DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fb.watch
 
 # Instagram
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,ig.me
 
 # WhatsApp
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wa.me
 
 # Messenger
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,m.me
 
 # Threads
 DOMAIN-SUFFIX,threads.net
