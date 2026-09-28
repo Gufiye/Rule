@@ -25,6 +25,10 @@ DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,meta.ai
 
+# Muse
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,metaaivm.com
+
 # Oculus / Quest
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
