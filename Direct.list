@@ -56,6 +56,12 @@ DOMAIN-SUFFIX,sfdyyy.cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,antbank.hk
 
 
+# 八达通
+DOMAIN-SUFFIX,octopuscards.com
+DOMAIN-SUFFIX,octopus-cards.com
+DOMAIN-SUFFIX,octopus.com.hk
+
+
 # =========================
 # 国内银行
 # =========================
