@@ -8,16 +8,21 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbsbx.net
 
 # Instagram
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,instagr.am
 
 # WhatsApp
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsapp.biz
 
 # Messenger
 DOMAIN-SUFFIX,messenger.com
@@ -38,6 +43,7 @@ DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculusvr.com
+DOMAIN-SUFFIX,ocul.us
 
 # Ip集
 IP-CIDR,108.168.176.192/26,no-resolve
