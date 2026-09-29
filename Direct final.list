@@ -22,6 +22,7 @@ IP-ASN,141180,no-resolve
 IP-ASN,366986,no-resolve
 IP-ASN,396986,no-resolve
 IP-CIDR,13.226.69.128/32,no-resolve
+IP-CIDR,13.32.99.24/32,no-resolve
 IP-CIDR,13.32.99.26/32,no-resolve
 IP-CIDR,13.32.99.44/32,no-resolve
 IP-CIDR,13.32.99.78/32,no-resolve
