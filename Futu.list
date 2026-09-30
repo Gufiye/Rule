@@ -214,8 +214,9 @@ IP-CIDR,183.60.225.232/32,no-resolve
 IP-CIDR,193.112.84.42/32,no-resolve
 IP-CIDR,193.112.230.251/32,no-resolve
 
-# IP 220.X.X.X(1条)
+# IP 220.X.X.X(2条)
 IP-CIDR,220.181.106.151/32,no-resolve
+IP-CIDR,220.181.106.152/32,no-resolve
 
 # IP 221.X.X.X(5条)
 IP-CIDR,221.229.52.173/32,no-resolve
