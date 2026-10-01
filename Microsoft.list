@@ -58,3 +58,9 @@ DOMAIN-SUFFIX,xboxlive.com
 
 # 短链
 DOMAIN-SUFFIX,aka.ms
+
+# Office 365 中国区（世纪互联 21vianet，国际版用户永不命中，零副作用）
+DOMAIN-SUFFIX,office365.cn
+DOMAIN-SUFFIX,chinacloudapi.cn
+DOMAIN-SUFFIX,sharepoint.cn
+DOMAIN-SUFFIX,onmschina.cn
