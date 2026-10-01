@@ -1,24 +1,3 @@
-# Supercell
-DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,brawlstars.com
-DOMAIN-SUFFIX,brawlstarsgame.com
-DOMAIN-SUFFIX,supercell.net
-DOMAIN-SUFFIX,supercellcdn.com
-DOMAIN-SUFFIX,supercellid.com
-DOMAIN-SUFFIX,supercellstore.com
-DOMAIN-SUFFIX,clash.com
-DOMAIN-SUFFIX,clashroyale.com
-DOMAIN-SUFFIX,clashroyaleapp.com
-
-# Riot
-DOMAIN-SUFFIX,riotgames.com
-DOMAIN-SUFFIX,riotcdn.net
-DOMAIN-SUFFIX,pvp.net
-DOMAIN-SUFFIX,leagueoflegends.com
-DOMAIN-SUFFIX,playvalorant.com
-DOMAIN-SUFFIX,teamfighttactics.com
-DOMAIN-SUFFIX,playruneterra.com
-
 # Weather
 DOMAIN-SUFFIX,weather.com
 
