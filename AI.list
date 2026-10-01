@@ -1,0 +1,25 @@
+# AI（手搓版）
+# 替代上游：blackmatrix7 OpenAI / Copilot / Claude（89 条→16 条）
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+# 订阅校验（ChatGPT App 内购，实测抓到）
+DOMAIN-SUFFIX,revenuecat.com
+
+# Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# Copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,webpubsub.azure.com
