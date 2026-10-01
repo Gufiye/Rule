@@ -116,7 +116,9 @@ DOMAIN-KEYWORD,samsung
 # 硬件厂商
 # NVIDIA
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,nvidia.cn
 DOMAIN-SUFFIX,geforce.com
+DOMAIN-SUFFIX,geforce.cn
 # AMD
 DOMAIN-SUFFIX,amd.com
 # Intel
