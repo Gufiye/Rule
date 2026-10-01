@@ -1,0 +1,12 @@
+# YouTube（手搓版）
+# 替代上游：ACL4SSR YouTube（14 条→9 条）
+
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
