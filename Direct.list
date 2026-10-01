@@ -152,3 +152,12 @@ DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,easy.ac
 DOMAIN-SUFFIX,easyanticheat.net
 DOMAIN-SUFFIX,eac-cdn.com
+
+
+# =========================
+# EA 游戏下载 CDN（强制直连，防几十 G 更新烧代理流量）
+# =========================
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+DOMAIN-SUFFIX,eaasserts-a.akamaihd.net
+DOMAIN-SUFFIX,originasserts.akamaized.net
