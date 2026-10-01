@@ -1,0 +1,42 @@
+# NAME: Apple（手搓版）
+# 替代上游：blackmatrix7 Apple（1593 条→22 条）
+# 上游掺水：181 个 beats 假货店、65 个仿冒/钓鱼域名、营销/僵尸收购、KEYWORD 误杀、PROCESS-NAME 无用
+# 拒绝采纳 review 的 akadns.net（一把梭会劫持 Akamai 共用 DNS 下别家流量）
+
+# 核心
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple.co
+
+# CDN / 内容
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+
+# 云服务
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mac.com
+
+# 地图
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,cdn-apple-mapkit.com
+
+# 媒体
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,shazam.com
+
+# DNS / 边缘
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-dns.com
+DOMAIN-SUFFIX,edge.apple
+
+# 短链
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,itun.es
+
+# 专属 IP 段（整个 17/8 都是苹果的，零误伤）
+IP-CIDR,17.0.0.0/8,no-resolve
