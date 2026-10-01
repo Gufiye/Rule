@@ -1,0 +1,40 @@
+# NAME: FCM（手搓版）
+# 替代上游：blackmatrix7 GoogleFCM（41 条→30 条）
+# 警告：必须走 DIRECT（📢 FCM 分组），勿并入 Google 分组
+# FCM 是手机推送生命线，mtalk TCP 5228 长连接，IP 尾号 .188 为 Google 硬编码保底
+
+# 设备注册与验证
+DOMAIN,android.apis.google.com
+DOMAIN,device-provisioning.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+
+# mtalk 长连接（1 条覆盖 mtalk/mtalk4/alt1-8 共 10 个生产域名）
+DOMAIN-SUFFIX,mtalk.google.com
+
+# FCM 保底 IP（.188 硬编码，防 DNS 失效时直连）
+IP-CIDR,108.177.125.188/32,no-resolve
+IP-CIDR,142.250.10.188/32,no-resolve
+IP-CIDR,142.250.31.188/32,no-resolve
+IP-CIDR,142.250.4.188/32,no-resolve
+IP-CIDR,142.250.96.188/32,no-resolve
+IP-CIDR,172.217.194.188/32,no-resolve
+IP-CIDR,172.217.218.188/32,no-resolve
+IP-CIDR,172.217.219.188/32,no-resolve
+IP-CIDR,172.253.122.188/32,no-resolve
+IP-CIDR,172.253.63.188/32,no-resolve
+IP-CIDR,173.194.175.188/32,no-resolve
+IP-CIDR,173.194.218.188/32,no-resolve
+IP-CIDR,209.85.233.188/32,no-resolve
+IP-CIDR,64.233.177.188/32,no-resolve
+IP-CIDR,64.233.186.188/32,no-resolve
+IP-CIDR,64.233.187.188/32,no-resolve
+IP-CIDR,64.233.188.188/32,no-resolve
+IP-CIDR,64.233.189.188/32,no-resolve
+IP-CIDR,74.125.127.188/32,no-resolve
+IP-CIDR,74.125.137.188/32,no-resolve
+IP-CIDR,74.125.203.188/32,no-resolve
+IP-CIDR,74.125.204.188/32,no-resolve
+IP-CIDR,74.125.206.188/32,no-resolve
+IP-CIDR,74.125.23.188/32,no-resolve
+IP-CIDR,74.125.24.188/32,no-resolve
+IP-CIDR,74.125.28.188/32,no-resolve
