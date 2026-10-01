@@ -1,0 +1,12 @@
+# GitHub（手搓版）
+# 替代上游：blackmatrix7 GitHub（31 条→9 条）
+
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubcopilot.com
