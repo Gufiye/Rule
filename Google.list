@@ -1,0 +1,58 @@
+# NAME: Google（手搓版）
+# 替代上游：blackmatrix7 Google（701 条→38 条）
+# 约定：Google 生态必须同组同出口 IP（含 Gemini/Antigravity，勿拆分到 AI 分组）
+# FCM 推送走 📢 FCM 分组（DIRECT），不在此列
+
+# 核心
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,google.com.tw
+
+# 基础设施
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+
+# 安卓 / Play
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,googleplay.com
+
+# 用户服务
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googlephotos.com
+DOMAIN-SUFFIX,googlemaps.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,web.app
+DOMAIN-SUFFIX,appspot.com
+
+# Google Voice
+DOMAIN,voice.telephony.goog
+
+# 广告 SDK（App 内嵌）
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,google-analytics.com
+
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,proactivebackend-pa.googleapis.com
+
+# Antigravity
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
