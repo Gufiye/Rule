@@ -121,6 +121,8 @@ DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,geforce.cn
 # AMD
 DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,radeon.com
 # Intel
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intel.cn
