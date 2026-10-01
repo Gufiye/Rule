@@ -141,3 +141,14 @@ DOMAIN-SUFFIX,asus.com.cn
 # steamcontent.com / steamchina.com / wmsjsteam.com 已由 SteamCN 上游走直连
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+
+
+# =========================
+# Epic（下载与反作弊强制直连）
+# =========================
+# download.epicgames.com：游戏下载走直连，不烧代理流量（Direct.list 在 Games.list 之前，优先命中）
+DOMAIN-SUFFIX,download.epicgames.com
+# EAC 反作弊（Apex/艾尔登法环/Rust 等第三方游戏共用，对延迟和 IP 变动敏感，走代理易被踢）
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,eac-cdn.com
