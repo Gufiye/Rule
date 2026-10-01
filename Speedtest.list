@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,chtm.hinet.net
 DOMAIN-SUFFIX,kbro.com.tw
 DOMAIN-SUFFIX,taiwanmobile.com
 DOMAIN-SUFFIX,seed.net.tw
+
+# 大陆测速服务器（用户手动选国内服务器测速用；其他城市的出现后按实测抓包再加）
+DOMAIN-SUFFIX,online.sh.cn
