@@ -26,3 +26,22 @@ DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,valvesoftware.com
+
+# Supercell（19→28，走代理）
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,brawlstars.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,supercell.net
+DOMAIN-SUFFIX,supercellid.com
+DOMAIN-SUFFIX,supercellstore.com
+DOMAIN-SUFFIX,clash.com
+DOMAIN-SUFFIX,clashroyale.com
+DOMAIN-SUFFIX,clashroyaleapp.com
+
+# Riot（28→34，走代理；riotcdn.net 下载走直连见 GamesDirect.list）
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-SUFFIX,playvalorant.com
+DOMAIN-SUFFIX,teamfighttactics.com
+DOMAIN-SUFFIX,playruneterra.com
