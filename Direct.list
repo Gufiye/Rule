@@ -133,3 +133,11 @@ DOMAIN-SUFFIX,asus.com.cn
 
 
 
+
+
+# =========================
+# Steam 游戏下载（强制直连，跑满带宽）
+# =========================
+# steamcontent.com / steamchina.com / wmsjsteam.com 已由 SteamCN 上游走直连
+DOMAIN-SUFFIX,steampipe.akamaized.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
