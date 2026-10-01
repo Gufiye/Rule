@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,onmicrosoft.com
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN,config.edge.skype.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
 
 # 邮箱
 DOMAIN-SUFFIX,outlook.com
