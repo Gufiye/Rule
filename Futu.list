@@ -86,9 +86,10 @@ IP-CIDR,43.163.17.223/32,no-resolve
 IP-CIDR,43.163.17.229/32,no-resolve
 IP-CIDR,43.163.63.148/32,no-resolve
 
-# IP 49.X.X.X(6条)
+# IP 49.X.X.X(7条)
 IP-CIDR,49.51.77.113/32,no-resolve
 IP-CIDR,49.51.77.144/32,no-resolve
+IP-CIDR,49.51.78.96/32,no-resolve
 IP-CIDR,49.51.78.222/32,no-resolve
 IP-CIDR,49.51.79.237/32,no-resolve
 IP-CIDR,49.234.241.65/32,no-resolve
@@ -135,9 +136,10 @@ IP-CIDR,118.25.86.218/32,no-resolve
 IP-CIDR,118.89.98.77/32,no-resolve
 IP-CIDR,118.89.100.23/32,no-resolve
 
-# IP 119.X.X.X(14条)
+# IP 119.X.X.X(15条)
 IP-CIDR,119.28.37.77/32,no-resolve
 IP-CIDR,119.28.37.206/32,no-resolve
+IP-CIDR,119.28.38.243/32,no-resolve
 IP-CIDR,119.28.183.55/32,no-resolve
 IP-CIDR,119.28.201.30/32,no-resolve
 IP-CIDR,119.29.43.101/32,no-resolve
@@ -182,8 +184,9 @@ IP-CIDR,129.226.106.23/32,no-resolve
 IP-CIDR,129.226.111.106/32,no-resolve
 IP-CIDR,129.226.111.140/32,no-resolve
 
-# IP 134.X.X.X(1条)
+# IP 134.X.X.X(2条)
 IP-CIDR,134.175.253.90/32,no-resolve
+IP-CIDR,134.175.254.224/32,no-resolve
 
 # IP 162.X.X.X(7条)
 IP-CIDR,162.14.3.250/32,no-resolve
