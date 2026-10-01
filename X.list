@@ -1,0 +1,16 @@
+# X（手搓版）
+# 替代上游：blackmatrix7 Twitter（34 条→13 条）
+
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,tweetdeck.com
+IP-ASN,13414,no-resolve
