@@ -26,5 +26,6 @@ DOMAIN-SUFFIX,eac-cdn.com
 DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,eaassets-a.akamaihd.net
 
-# Riot 下载 CDN（验过：未被墙，直连）
+# Riot：下载 CDN + 电竞账号服务（验过：未被墙，直连）
 DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotesports.com
