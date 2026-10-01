@@ -6,3 +6,10 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speed.cloudflare.com
+
+# 台湾 ISP 测速服务器（Speedtest App 实测：:8080 测量流量走这些 ISP 自建服务器）
+# 不收进来，测速分组形同虚设——界面走选中节点，实测流量掉进默认代理，数据是混的
+DOMAIN-SUFFIX,chtm.hinet.net
+DOMAIN-SUFFIX,kbro.com.tw
+DOMAIN-SUFFIX,taiwanmobile.com
+DOMAIN-SUFFIX,seed.net.tw
