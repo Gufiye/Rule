@@ -1,0 +1,8 @@
+# NAME: Speedtest（手搓版）
+# 替代上游：blackmatrix7 Speedtest（8 条→4 条）
+# 扔掉：DOMAIN-KEYWORD,speedtest、speedtestcustom.com（企业定制）、speed.dler.io、speedtest.co（野鸡）
+# ooklaserver.net 保留：speedtest.net 实际测速流量走 Ookla 自家服务器，不收测出来是假成绩
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,speed.cloudflare.com
