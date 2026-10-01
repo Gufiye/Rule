@@ -10,6 +10,14 @@ DOMAIN-SUFFIX,clash.com
 DOMAIN-SUFFIX,clashroyale.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 
+# Riot
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-SUFFIX,playvalorant.com
+DOMAIN-SUFFIX,teamfighttactics.com
+DOMAIN-SUFFIX,playruneterra.com
 
 # Weather
 DOMAIN-SUFFIX,weather.com
