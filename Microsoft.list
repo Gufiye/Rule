@@ -1,0 +1,60 @@
+# NAME: Microsoft（手搓版）
+# 替代上游：blackmatrix7 Microsoft（670 条→37 条）
+# 扔掉：4 个 KEYWORD、Skype/Cortana/Wunderlist/IE/WP 等僵尸产品、108 个 .cn、bing 仿冒、
+#       Akamai CDN 别名、游戏长尾、区域变体、PROCESS-NAME
+# Azure 只留 azure.com 门户：windows.net/cloudapp.net/azurewebsites.net 等 PaaS 上有第三方托管，大包围误伤
+
+# 账号与认证
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoftusercontent.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,microsoft365.com
+
+# Windows
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msedge.net
+
+# Office / OneDrive / SharePoint
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,onmicrosoft.com
+DOMAIN-SUFFIX,livefilestore.com
+
+# 邮箱
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,hotmail.com
+
+# 搜索 / 门户
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,msn.com
+
+# Azure（只留门户）
+DOMAIN-SUFFIX,azure.com
+
+# 开发工具
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,visualstudio.net
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,nuget.org
+
+# Xbox
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxlive.com
+
+# 短链
+DOMAIN-SUFFIX,aka.ms
