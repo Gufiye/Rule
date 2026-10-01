@@ -2,19 +2,11 @@
 # 新 CDN 节点出现后按实测抓包再加
 
 # SteamCN：蒸汽平台/完美世界国服 CDN（上游原样收编）
-DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,dota2.wmsj.cn
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
-DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
@@ -33,5 +25,6 @@ DOMAIN-SUFFIX,eac-cdn.com
 # EA 游戏下载 CDN（强制直连，防几十 G 更新烧代理流量）
 DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,eaassets-a.akamaihd.net
-DOMAIN-SUFFIX,eaasserts-a.akamaihd.net
-DOMAIN-SUFFIX,originasserts.akamaized.net
+
+# Riot 下载 CDN（验过：未被墙，直连）
+DOMAIN-SUFFIX,riotcdn.net
