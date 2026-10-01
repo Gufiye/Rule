@@ -1,0 +1,33 @@
+# 🎮 游戏平台（Epic / EA / Steam 合并，上游 234 条→24 条）
+# KEYWORD 全扔、死游戏扔、CDN 别名扔、第三方商店/盗版站扔
+# Steam 下载 CDN 走 DIRECT（见 Direct.list Steam 分组），这里只收社区/商店
+
+# Epic（15→7）
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,fortnite.com
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,easy.ac
+DOMAIN-SUFFIX,easyanticheat.net
+DOMAIN-SUFFIX,eac-cdn.com
+
+# EA（165→8）
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,easports.com
+DOMAIN-SUFFIX,eaplay.com
+DOMAIN-SUFFIX,apexlegends.com
+DOMAIN-SUFFIX,battlefield.com
+DOMAIN-SUFFIX,thesims.com
+DOMAIN-SUFFIX,titanfall.com
+
+# Steam 社区/商店（54→9，走代理）
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamdeck.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,steam-api.com
+DOMAIN-SUFFIX,valvesoftware.com
