@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,watcab01.blob.core.windows.net
 DOMAIN,signalrp2-relayhub-prod-as01-3.service.signalr.net
+DOMAIN,edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net
 
 # 开发工具
 DOMAIN-SUFFIX,visualstudio.com
