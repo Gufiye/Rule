@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,nuget.org
 # Xbox
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservices.com
 
 # 短链
 DOMAIN-SUFFIX,aka.ms
