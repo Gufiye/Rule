@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN,ohttp-relay-safebrowsing-android.google.fastly-edge.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 
