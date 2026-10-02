@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 
 # Epic：下载直连（不烧代理流量）+ EAC 反作弊直连（第三方游戏共用，走代理易被踢）
 DOMAIN-SUFFIX,download.epicgames.com
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,easy.ac
 DOMAIN-SUFFIX,easyanticheat.net
 DOMAIN-SUFFIX,eac-cdn.com
