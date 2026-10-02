@@ -44,8 +44,9 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN,ts1.tc.mm.bing.net
 DOMAIN,msft-ssp.adnxs.com
-DOMAIN,res.public.onecdn.static.microsoft
+DOMAIN-SUFFIX,public.onecdn.static.microsoft
 DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,microsoftestore.com.hk
 
 # Azure（只留门户）
 DOMAIN-SUFFIX,azure.com
@@ -69,6 +70,7 @@ DOMAIN-SUFFIX,xboxservices.com
 
 # 短链
 DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,onestore.ms
 
 # Office 365 中国区（世纪互联 21vianet，国际版用户永不命中，零副作用）
 DOMAIN-SUFFIX,office365.cn
