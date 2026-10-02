@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,eaplay.com
 DOMAIN-SUFFIX,dice.se
 DOMAIN-SUFFIX,playapex.com
 
-# Steam 社区/商店（54→9，走代理）
+# Steam 社区/商店（54→10，走代理）
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,steam-api.com
 DOMAIN-SUFFIX,valvesoftware.com
+DOMAIN-SUFFIX,steamconnecttest.com
 
 # Supercell（19→28，走代理）
 DOMAIN-SUFFIX,supercell.com
