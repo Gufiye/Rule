@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
+IP-CIDR,20.168.48.117/32,no-resolve
+IP-CIDR,40.118.236.137/32,no-resolve
+IP-CIDR,4.155.146.196/32,no-resolve
 # 订阅校验（ChatGPT App 内购，实测抓到）
 DOMAIN-SUFFIX,revenuecat.com
 
