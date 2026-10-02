@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,withgoogle.com
 DOMAIN,ohttp-relay-safebrowsing-android.google.fastly-edge.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
@@ -55,7 +56,7 @@ DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,appspot.com
 
 # Google Voice
-DOMAIN,voice.telephony.goog
+DOMAIN-SUFFIX,voice.telephony.goog
 
 # 广告 SDK（App 内嵌）
 DOMAIN-SUFFIX,doubleclick.net
