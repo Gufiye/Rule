@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.org
 DOMAIN-SUFFIX,about.google
 DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,blog.google
 
 # 基础设施
 DOMAIN-SUFFIX,googleapis.com
