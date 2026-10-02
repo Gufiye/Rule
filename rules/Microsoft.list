@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN,ts1.tc.mm.bing.net
 DOMAIN,msft-ssp.adnxs.com
 DOMAIN,res.public.onecdn.static.microsoft
+DOMAIN,c.s-microsoft.com
 
 # Azure（只留门户）
 DOMAIN-SUFFIX,azure.com
