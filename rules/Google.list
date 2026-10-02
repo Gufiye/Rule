@@ -16,6 +16,7 @@ DOMAIN,proactivebackend-pa.googleapis.com
 # Antigravity
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN,antigravity-hub-auto-updater-974169037036.us-central1.run.app
 DOMAIN-SUFFIX,aiplatform.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
