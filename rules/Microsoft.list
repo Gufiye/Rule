@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,hotmail.com
 # 搜索 / 门户
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,msn.com
-DOMAIN,ts1.tc.mm.bing.net
+DOMAIN-SUFFIX,tc.mm.bing.net
 DOMAIN,msft-ssp.adnxs.com
 DOMAIN-SUFFIX,public.onecdn.static.microsoft
 DOMAIN-SUFFIX,s-microsoft.com
