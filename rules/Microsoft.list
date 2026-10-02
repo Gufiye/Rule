@@ -49,7 +49,7 @@ DOMAIN-SUFFIX,s-microsoft.com
 
 # Azure（只留门户）
 DOMAIN-SUFFIX,azure.com
-DOMAIN,ceuswatcab01.blob.core.windows.net
+DOMAIN-SUFFIX,watcab01.blob.core.windows.net
 
 # 开发工具
 DOMAIN-SUFFIX,visualstudio.com
