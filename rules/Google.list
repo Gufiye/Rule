@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 
@@ -56,3 +57,4 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagservices.com
