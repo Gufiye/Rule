@@ -5,7 +5,9 @@
 
 # 核心
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,apple.co
 
 # CDN / 内容
