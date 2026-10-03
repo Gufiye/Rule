@@ -2,7 +2,7 @@
 # 新 CDN 节点出现后按实测抓包再加
 
 # SteamCN：蒸汽平台/完美世界国服 CDN（上游原样收编）
-DOMAIN,dl.steam.clngaa.com
+DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,wmsjsteam.com
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 # Epic：下载直连（不烧代理流量）+ EAC 反作弊直连（第三方游戏共用，走代理易被踢）
 DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
+DOMAIN-SUFFIX,epicgamescdn.com
 DOMAIN-SUFFIX,easy.ac
 DOMAIN-SUFFIX,easyanticheat.net
 DOMAIN-SUFFIX,eac-cdn.com
