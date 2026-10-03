@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,withgoogle.com
@@ -42,6 +43,7 @@ DOMAIN-SUFFIX,googlezip.net
 DOMAIN,ohttp-relay-safebrowsing-android.google.fastly-edge.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,g.co
 
 # 安卓 / Play
 DOMAIN-SUFFIX,android.com
