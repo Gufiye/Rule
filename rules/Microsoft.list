@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,microsoft365.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,a-msedge.net
+DOMAIN-SUFFIX,c-msedge.net
+DOMAIN-SUFFIX,surface.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msedge.net
 
@@ -67,6 +70,8 @@ DOMAIN-SUFFIX,nuget.org
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,gamepass.com
 
 # 短链
 DOMAIN-SUFFIX,aka.ms
