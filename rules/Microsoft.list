@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,xboxservices.com
 # 短链
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,onestore.ms
+DOMAIN-SUFFIX,sfx.ms
 
 # Office 365 中国区（世纪互联 21vianet，国际版用户永不命中，零副作用）
 DOMAIN-SUFFIX,office365.cn
