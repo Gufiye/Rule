@@ -58,6 +58,14 @@ DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,appspot.com
 
+
+# 旗下产品
+DOMAIN-SUFFIX,waze.com
+DOMAIN-SUFFIX,nest.com
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,deepmind.com
+
 # Google Voice
 DOMAIN-SUFFIX,voice.telephony.goog
 
