@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,ospserver.net
 DOMAIN-SUFFIX,tizen.org
 DOMAIN-KEYWORD,samsung
 DOMAIN-SUFFIX,smartthings.com
+DOMAIN-SUFFIX,bixbyllm.com
 
 
 # 硬件厂商
@@ -142,3 +143,6 @@ DOMAIN-SUFFIX,asus.com.cn
 
 # BeeSIM
 DOMAIN-SUFFIX,beeesim.com
+
+# 米家
+DOMAIN-SUFFIX,mijia.tech
