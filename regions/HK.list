@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,weather.com
 # TradingView
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tradingviewstore.com
+
+# 香港域名
+DOMAIN-SUFFIX,hk
