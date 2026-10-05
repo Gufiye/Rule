@@ -67,3 +67,6 @@ DOMAIN-SUFFIX,binancezh.kim
 DOMAIN-SUFFIX,asterdex.com
 DOMAIN-SUFFIX,asterdex.mobi
 DOMAIN-SUFFIX,asterdex.tv
+
+# 台湾域名
+DOMAIN-SUFFIX,tw
