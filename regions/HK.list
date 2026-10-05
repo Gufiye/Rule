@@ -7,3 +7,8 @@ DOMAIN,o4509003707842560.ingest.us.sentry.io
 
 # Duolingo
 DOMAIN-SUFFIX,duolingo.com
+
+# Discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordapp.com
