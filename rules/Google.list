@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.org
 DOMAIN-SUFFIX,google
+DOMAIN-SUFFIX,google.co.uk
 
 # 基础设施
 DOMAIN-SUFFIX,googleapis.com
