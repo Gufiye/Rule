@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tradingviewstore.com
 
-# Interactive Brokers
+# IBKR
 DOMAIN-SUFFIX,interactivebrokers.com
 
 # 香港域名
