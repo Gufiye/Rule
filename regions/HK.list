@@ -12,3 +12,10 @@ DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.com
+
+# Reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
