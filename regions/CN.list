@@ -138,3 +138,6 @@ DOMAIN-SUFFIX,asus.com.cn
 
 # BeeSIM
 DOMAIN-SUFFIX,beeesim.com
+
+# Interactive Brokers
+DOMAIN-SUFFIX,ibkrguides.com
