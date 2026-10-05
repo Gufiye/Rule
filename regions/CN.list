@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,api.mixpanel.com
 # IBKR 
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,tipranks.com
 DOMAIN-SUFFIX,mcgw1.ibllc.com.cn
 DOMAIN-SUFFIX,mcgw1-hb1.ibllc.com.cn
 DOMAIN-SUFFIX,mcgw1-hb2.ibllc.com.cn
@@ -98,8 +99,6 @@ DOMAIN-SUFFIX,mcgw1-hb2.ibllc.com.cn
 
 
 
-# TipRanks
-DOMAIN-SUFFIX,tipranks.com
 
 # 局域网全部直连
 IP-CIDR,192.168.0.0/16,no-resolve
