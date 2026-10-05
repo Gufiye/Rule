@@ -19,3 +19,10 @@ DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditspace.com
+
+# Weather
+DOMAIN-SUFFIX,weather.com
+
+# TradingView
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,tradingviewstore.com
