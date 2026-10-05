@@ -20,6 +20,10 @@ DOMAIN-SUFFIX,revenuecat.com
 # Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpclient.com
 
 # Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
