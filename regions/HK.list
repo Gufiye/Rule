@@ -4,3 +4,6 @@
 DOMAIN-SUFFIX,clubsim.com.hk
 IP-CIDR,120.88.227.101/32,no-resolve
 DOMAIN,o4509003707842560.ingest.us.sentry.io
+
+# Duolingo
+DOMAIN-SUFFIX,duolingo.com
