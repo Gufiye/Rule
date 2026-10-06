@@ -14,6 +14,8 @@ IP-ASN,134963,no-resolve
 # XHS域名
 DOMAIN-SUFFIX,eoktv7.cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,eoktv7.launches.appsflyersdk.com
+DOMAIN-SUFFIX,rnote.com
+DOMAIN-SUFFIX,rednotecdn.com
 IP-ASN,151326,no-resolve
 IP-ASN,139057,no-resolve
 IP-ASN,63139,no-resolve
