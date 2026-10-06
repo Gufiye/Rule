@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
