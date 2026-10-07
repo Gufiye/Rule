@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,tizen.org
 DOMAIN-KEYWORD,samsung
 DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,bixbyllm.com
+DOMAIN,api.knox-matrix.com
 
 
 # 硬件厂商
