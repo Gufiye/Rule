@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,cloud.microsoft
 DOMAIN-SUFFIX,webpubsub.azure.com
+DOMAIN-SUFFIX,ms-sso.copilot.com
 
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
