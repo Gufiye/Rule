@@ -1,5 +1,9 @@
 # AI（手搓版）
-# 替代上游：blackmatrix7 OpenAI / Copilot / Claude（89 条→16 条）
+# 替代上游：blackmatrix7 OpenAI / Copilot / Claude（）
+
+# 进程名兜底（Android）
+PROCESS-NAME,com.openai.chatgpt
+PROCESS-NAME,com.microsoft.copilot
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
