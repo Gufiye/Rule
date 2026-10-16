@@ -1,5 +1,5 @@
 # AI（手搓版）
-# 替代上游：blackmatrix7 OpenAI / Copilot / Claude（）
+# 替代上游：blackmatrix7 OpenAI / Copilot / Claude（89 条→18 条）
 
 # 进程名兜底（Android）
 PROCESS-NAME,com.openai.chatgpt
