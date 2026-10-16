@@ -1,5 +1,12 @@
 # > Meta / Facebook / Instagram / WhatsApp / Threads
 
+# 进程名兜底（Android）
+PROCESS-NAME,com.facebook.katana
+PROCESS-NAME,com.instagram.android
+PROCESS-NAME,com.instagram.barcelona
+PROCESS-NAME,com.whatsapp
+PROCESS-NAME,com.facebook.aura
+
 # Facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
