@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,microsoftestore.com.hk
 # Azure（只留门户）
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,watcab01.blob.core.windows.net
-DOMAIN,signalrp2-relayhub-prod-as01-3.service.signalr.net
+DOMAIN-SUFFIX,service.signalr.net
 DOMAIN,edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net
 
 # 开发工具
