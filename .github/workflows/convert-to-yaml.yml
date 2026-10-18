@@ -36,12 +36,9 @@ jobs:
                   out_lines = ['payload:']
                   for line in lines:
                       stripped = line.strip()
-                      if not stripped:
+                      if not stripped or stripped.startswith('#'):
                           continue
-                      if stripped.startswith('#'):
-                          out_lines.append(stripped)
-                      else:
-                          out_lines.append(f"  - {stripped}")
+                      out_lines.append(f"  - {stripped}")
 
                   with open(dst, 'w', encoding='utf-8', newline='\n') as f:
                       f.write('\n'.join(out_lines) + '\n')
