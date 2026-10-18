@@ -1,0 +1,6 @@
+payload:
+# US 地区（手搓版）
+# TruthSocial
+  - DOMAIN-SUFFIX,truthsocial.com
+# 美国域名
+  - DOMAIN-SUFFIX,us

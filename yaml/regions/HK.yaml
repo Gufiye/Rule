@@ -1,0 +1,27 @@
+payload:
+# HK 地区（手搓版）
+# ClubSim
+  - DOMAIN-SUFFIX,clubsim.com.hk
+  - IP-CIDR,120.88.227.101/32,no-resolve
+  - DOMAIN,o4509003707842560.ingest.us.sentry.io
+# Duolingo
+  - DOMAIN-SUFFIX,duolingo.com
+# Discord
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discordapp.com
+# Reddit
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditspace.com
+# Weather
+  - DOMAIN-SUFFIX,weather.com
+# TradingView
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,tradingviewstore.com
+# IBKR
+  - DOMAIN-SUFFIX,interactivebrokers.com
+# 香港域名
+  - DOMAIN-SUFFIX,hk
