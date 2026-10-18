@@ -8,6 +8,9 @@ on:
       - 'regions/*.list'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -24,7 +27,6 @@ jobs:
 
           for pattern in ['rules/*.list', 'regions/*.list']:
               for src in glob.glob(pattern):
-                  # Output path: yaml/rules/X.yaml, yaml/regions/Y.yaml
                   dst = os.path.join('yaml', os.path.splitext(src)[0] + '.yaml')
                   os.makedirs(os.path.dirname(dst), exist_ok=True)
 
@@ -33,12 +35,10 @@ jobs:
 
                   out_lines = ['payload:']
                   for line in lines:
-                      # Strip \r\n, keep content
                       stripped = line.strip()
                       if not stripped:
                           continue
                       if stripped.startswith('#'):
-                          # Keep as YAML comment
                           out_lines.append(stripped)
                       else:
                           out_lines.append(f"  - {stripped}")
