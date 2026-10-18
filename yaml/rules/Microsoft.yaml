@@ -1,10 +1,4 @@
 payload:
-# NAME: Microsoft（手搓版）
-# 替代上游：blackmatrix7 Microsoft（670 条→37 条）
-# 扔掉：4 个 KEYWORD、Skype/Cortana/Wunderlist/IE/WP 等僵尸产品、108 个 .cn、bing 仿冒、
-#       Akamai CDN 别名、游戏长尾、区域变体、PROCESS-NAME
-# Azure 只留 azure.com 门户：windows.net/cloudapp.net/azurewebsites.net 等 PaaS 上有第三方托管，大包围误伤
-# 账号与认证
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,microsoftusercontent.com
@@ -15,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,microsoft365.com
-# Windows
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,msftconnecttest.com
@@ -24,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,surface.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msedge.net
-# Office / OneDrive / SharePoint
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,1drv.ms
@@ -37,10 +29,8 @@ payload:
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN,config.edge.skype.com
   - DOMAIN-SUFFIX,microsoftpersonalcontent.com
-# 邮箱
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,hotmail.com
-# 搜索 / 门户
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,tc.mm.bing.net
@@ -48,12 +38,10 @@ payload:
   - DOMAIN-SUFFIX,public.onecdn.static.microsoft
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,microsoftestore.com.hk
-# Azure（只留门户）
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,watcab01.blob.core.windows.net
   - DOMAIN-SUFFIX,service.signalr.net
   - DOMAIN,edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net
-# 开发工具
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,visualstudio.net
   - DOMAIN-SUFFIX,vscode.dev
@@ -61,17 +49,14 @@ payload:
   - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,nuget.org
-# Xbox
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,gamepass.com
-# 短链
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,sfx.ms
-# Office 365 中国区（世纪互联 21vianet，国际版用户永不命中，零副作用）
   - DOMAIN-SUFFIX,office365.cn
   - DOMAIN-SUFFIX,chinacloudapi.cn
   - DOMAIN-SUFFIX,sharepoint.cn

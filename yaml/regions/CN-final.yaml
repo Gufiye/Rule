@@ -1,15 +1,9 @@
 payload:
-# =========================
-# ASN直连兜底
-# =========================
-# Tencent域名
   - IP-ASN,132203,no-resolve
   - IP-ASN,139341,no-resolve
-# Alibaba域名
   - IP-ASN,24429,no-resolve
   - IP-ASN,45102,no-resolve
   - IP-ASN,134963,no-resolve
-# XHS域名
   - DOMAIN-SUFFIX,eoktv7.cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,eoktv7.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,rnote.com
@@ -26,7 +20,4 @@ payload:
   - IP-CIDR,13.32.99.26/32,no-resolve
   - IP-CIDR,13.32.99.44/32,no-resolve
   - IP-CIDR,13.32.99.78/32,no-resolve
-# =========================
-# NTP时间同步
-# =========================
   - DOMAIN-SUFFIX,pool.ntp.org

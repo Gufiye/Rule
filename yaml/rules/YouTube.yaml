@@ -1,6 +1,4 @@
 payload:
-# YouTube（手搓版）
-# 替代上游：ACL4SSR YouTube（14 条→9 条）
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,youtubegaming.com
   - DOMAIN-SUFFIX,youtubekids.com

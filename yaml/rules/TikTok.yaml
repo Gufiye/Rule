@@ -1,6 +1,4 @@
 payload:
-# TikTok（手搓版）
-# 替代上游：blackmatrix7 TikTok（32 条→19 条）
   - PROCESS-NAME,com.ss.android.ugc.trill
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokv.com

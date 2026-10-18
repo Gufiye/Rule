@@ -1,19 +1,11 @@
 payload:
-# NAME: Speedtest（手搓版）
-# 替代上游：blackmatrix7 Speedtest（8 条→4 条）
-# 扔掉：DOMAIN-KEYWORD,speedtest、speedtestcustom.com（企业定制）、speed.dler.io、speedtest.co（野鸡）
-# ooklaserver.net 保留：speedtest.net 实际测速流量走 Ookla 自家服务器，不收测出来是假成绩
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
-# 台湾 ISP 测速服务器（Speedtest App 实测：:8080 测量流量走这些 ISP 自建服务器）
-# 不收进来，测速分组形同虚设——界面走选中节点，实测流量掉进默认代理，数据是混的
   - DOMAIN-SUFFIX,chtm.hinet.net
   - DOMAIN-SUFFIX,kbro.com.tw
   - DOMAIN-SUFFIX,taiwanmobile.com
   - DOMAIN-SUFFIX,seed.net.tw
-# 大陆测速服务器（用户手动选国内服务器测速用；其他城市的出现后按实测抓包再加）
   - DOMAIN-SUFFIX,online.sh.cn
-# 香港测速服务器（实测：csl.hkspeedtest.com，CSL 香港）
   - DOMAIN-SUFFIX,hkspeedtest.com

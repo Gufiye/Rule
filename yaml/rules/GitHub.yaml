@@ -1,6 +1,4 @@
 payload:
-# GitHub（手搓版）
-# 替代上游：blackmatrix7 GitHub（31 条→11 条）
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubassets.com
