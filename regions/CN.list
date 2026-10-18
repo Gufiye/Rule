@@ -153,3 +153,6 @@ DOMAIN-SUFFIX,mijia.tech
 
 # 抖音
 DOMAIN-SUFFIX,aweme.snssdk.com
+
+# 个人域名
+DOMAIN-SUFFIX,0xethan.com
