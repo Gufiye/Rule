@@ -1,0 +1,61 @@
+name: Convert .list to YAML payload
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'rules/*.list'
+      - 'regions/*.list'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Convert to YAML payload
+        run: |
+          python3 << 'PYEOF'
+          import os
+          import glob
+
+          for pattern in ['rules/*.list', 'regions/*.list']:
+              for src in glob.glob(pattern):
+                  # Output path: yaml/rules/X.yaml, yaml/regions/Y.yaml
+                  dst = os.path.join('yaml', os.path.splitext(src)[0] + '.yaml')
+                  os.makedirs(os.path.dirname(dst), exist_ok=True)
+
+                  with open(src, 'r', encoding='utf-8', errors='replace') as f:
+                      lines = f.readlines()
+
+                  out_lines = ['payload:']
+                  for line in lines:
+                      # Strip \r\n, keep content
+                      stripped = line.strip()
+                      if not stripped:
+                          continue
+                      if stripped.startswith('#'):
+                          # Keep as YAML comment
+                          out_lines.append(stripped)
+                      else:
+                          out_lines.append(f"  - {stripped}")
+
+                  with open(dst, 'w', encoding='utf-8', newline='\n') as f:
+                      f.write('\n'.join(out_lines) + '\n')
+                  print(f"{src} -> {dst}")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add yaml/
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Auto-convert .list to YAML payload"
+            git push
+          fi
