@@ -1,5 +1,5 @@
 # NAME: Apple（手搓版）
-# 替代上游：blackmatrix7 Apple（1593 条→22 条）
+# 替代上游：blackmatrix7 Apple（1593 条→25 条）
 # 上游掺水：181 个 beats 假货店、65 个仿冒/钓鱼域名、营销/僵尸收购、KEYWORD 误杀、PROCESS-NAME 无用
 # 拒绝采纳 review 的 akadns.net（一把梭会劫持 Akamai 共用 DNS 下别家流量）
 
@@ -39,6 +39,9 @@ DOMAIN-SUFFIX,edge.apple
 # 短链
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,itun.es
+
+# 推送（Akamai 边缘）
+DOMAIN-KEYWORD,push-apple.com.akadns.net
 
 # 专属 IP 段（整个 17/8 都是苹果的，零误伤）
 IP-CIDR,17.0.0.0/8,no-resolve
