@@ -22,4 +22,5 @@ payload:
   - DOMAIN-SUFFIX,edge.apple
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,itun.es
+  - DOMAIN-KEYWORD,push-apple.com.akadns.net
   - IP-CIDR,17.0.0.0/8,no-resolve
