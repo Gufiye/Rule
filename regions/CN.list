@@ -156,3 +156,6 @@ DOMAIN-SUFFIX,aweme.snssdk.com
 
 # 个人域名
 DOMAIN-SUFFIX,0xethan.com
+
+# Cloudflare Tunnel
+DOMAIN-SUFFIX,argotunnel.com
