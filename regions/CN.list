@@ -44,8 +44,12 @@ DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zabank.com
 DOMAIN-SUFFIX,zmr2l0.inapps.appsflyersdk.com
+DOMAIN-SUFFIX,zmr2l0.launches.appsflyersdk.com
+DOMAIN-SUFFIX,zmr2l0.cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,zainvest.group
 DOMAIN-SUFFIX,zajourney.com
+IP-CIDR,103.129.255.183/32,no-resolve
+IP-CIDR,103.129.255.221/32,no-resolve
 
 
 # Elebank
@@ -159,3 +163,7 @@ DOMAIN-SUFFIX,0xethan.com
 
 # Cloudflare Tunnel
 DOMAIN-SUFFIX,argotunnel.com
+
+# 国内推送
+DOMAIN-SUFFIX,jpush.io
+DOMAIN-SUFFIX,easytomessage.com
