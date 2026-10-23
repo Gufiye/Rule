@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,octopus-cards.com
   - DOMAIN-SUFFIX,octopus.com.hk
   - DOMAIN,octopus.queue-it.net
+  - DOMAIN,octopus.data.adobedc.net
   - DOMAIN-SUFFIX,cib.com.cn
   - DOMAIN-SUFFIX,cibnet.com.cn
   - DOMAIN-SUFFIX,abchina.com
