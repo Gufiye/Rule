@@ -34,8 +34,12 @@ payload:
   - DOMAIN-SUFFIX,za.group
   - DOMAIN-SUFFIX,zabank.com
   - DOMAIN-SUFFIX,zmr2l0.inapps.appsflyersdk.com
+  - DOMAIN-SUFFIX,zmr2l0.launches.appsflyersdk.com
+  - DOMAIN-SUFFIX,zmr2l0.cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,zainvest.group
   - DOMAIN-SUFFIX,zajourney.com
+  - IP-CIDR,103.129.255.183/32,no-resolve
+  - IP-CIDR,103.129.255.221/32,no-resolve
   - DOMAIN-SUFFIX,airstarbank.com
   - DOMAIN-SUFFIX,elebank.com
   - DOMAIN-SUFFIX,sfdyyy.launches.appsflyersdk.com
@@ -92,3 +96,5 @@ payload:
   - DOMAIN-SUFFIX,aweme.snssdk.com
   - DOMAIN-SUFFIX,0xethan.com
   - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,jpush.io
+  - DOMAIN-SUFFIX,easytomessage.com
