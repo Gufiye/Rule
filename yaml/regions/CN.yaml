@@ -101,3 +101,6 @@ payload:
   - DOMAIN-SUFFIX,jpush.io
   - DOMAIN-SUFFIX,easytomessage.com
   - DOMAIN-SUFFIX,gvt1-cn.com
+  - DOMAIN-SUFFIX,gvt2-cn.com
+  - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN,time.android.com
