@@ -168,3 +168,6 @@ DOMAIN-SUFFIX,argotunnel.com
 # 国内推送
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,easytomessage.com
+
+# Google
+DOMAIN-SUFFIX,gvt1-cn.com
