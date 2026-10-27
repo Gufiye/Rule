@@ -31,6 +31,11 @@ payload:
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,googleplay.com
+  - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt1-cn.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,googledrive.com
   - DOMAIN-SUFFIX,googlephotos.com
