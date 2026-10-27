@@ -7,5 +7,10 @@ payload:
   - DOMAIN-SUFFIX,kbro.com.tw
   - DOMAIN-SUFFIX,taiwanmobile.com
   - DOMAIN-SUFFIX,seed.net.tw
+  - DOMAIN-SUFFIX,speedtest.idv.tw
   - DOMAIN-SUFFIX,online.sh.cn
   - DOMAIN-SUFFIX,hkspeedtest.com
+  - DOMAIN-SUFFIX,speedtest.windstream.net
+  - DOMAIN-SUFFIX,speedtest.frontier.com
+  - DOMAIN-SUFFIX,melbicom.net
+  - DOMAIN-SUFFIX,perfectip.net
