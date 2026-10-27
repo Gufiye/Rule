@@ -18,8 +18,9 @@ DOMAIN-SUFFIX,speedtest.idv.tw
 # 大陆测速服务器（用户手动选国内服务器测速用；其他城市的出现后按实测抓包再加）
 DOMAIN-SUFFIX,online.sh.cn
 
-# 香港测速服务器（实测：csl.hkspeedtest.com，CSL 香港）
+# 香港测速服务器（实测：csl.hkspeedtest.com，CSL 香港；hkspeedtest.netvigator.com，网维）
 DOMAIN-SUFFIX,hkspeedtest.com
+DOMAIN-SUFFIX,hkspeedtest.netvigator.com
 
 # 美国测速服务器（Speedtest App 实测：自动选中的 LA 服务器，不收进来会走美国组代理，数据是混的）
 DOMAIN-SUFFIX,speedtest.windstream.net
