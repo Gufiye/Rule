@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,speedtest.idv.tw
   - DOMAIN-SUFFIX,online.sh.cn
   - DOMAIN-SUFFIX,hkspeedtest.com
+  - DOMAIN-SUFFIX,hkspeedtest.netvigator.com
   - DOMAIN-SUFFIX,speedtest.windstream.net
   - DOMAIN-SUFFIX,speedtest.frontier.com
   - DOMAIN-SUFFIX,melbicom.net
