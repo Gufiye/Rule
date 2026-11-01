@@ -214,8 +214,9 @@ IP-CIDR,162.14.17.141/32,no-resolve
 IP-CIDR,162.14.18.91/32,no-resolve
 IP-CIDR,162.14.19.114/32,no-resolve
 
-# IP 170.X.X.X(4条)
+# IP 170.X.X.X(5条)
 IP-CIDR,170.106.47.242/32,no-resolve
+IP-CIDR,170.106.48.217/32,no-resolve
 IP-CIDR,170.106.49.111/32,no-resolve
 IP-CIDR,170.106.49.68/32,no-resolve
 IP-CIDR,170.106.62.232/32,no-resolve
