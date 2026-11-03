@@ -77,3 +77,11 @@ DOMAIN-SUFFIX,umeng.com
 # 倍孜/1RTB 广告（养基宝实测，2026-11-03）
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,1rtb.net
+
+# 养基宝开屏广告（Sigmob/ADN+/章鱼移动/穿山甲-b，2026-11-03）
+DOMAIN-SUFFIX,sigmob.cn
+DOMAIN-SUFFIX,sigmob.com
+DOMAIN-SUFFIX,adn-plus.com.cn
+DOMAIN-SUFFIX,zhangyuyidong.cn
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN,guanggao-prod.cn-shanghai.log.aliyuncs.com
