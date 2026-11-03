@@ -46,3 +46,6 @@ payload:
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,gdt.qq.com
   - DOMAIN-SUFFIX,e.qq.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+  - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,umeng.com
