@@ -29,3 +29,16 @@ payload:
   - DOMAIN-SUFFIX,rubiconproject.com
   - DOMAIN-SUFFIX,vungle.com
   - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,pangle.io
+  - DOMAIN-SUFFIX,pangle-b.io
+  - DOMAIN-SUFFIX,af-sdk.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,adnxs.com
+  - DOMAIN-SUFFIX,adsafeprotected.com
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,shenshiads.com
+  - DOMAIN-SUFFIX,metricslinks.com
+  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,adsensecustomsearchads.com
+  - DOMAIN,adtrack.xiaojukeji.com
+  - DOMAIN,tracker.didistatic.com
