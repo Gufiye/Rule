@@ -1,0 +1,4 @@
+# Reject 拦截名单（广告/追踪域名，指向 REJECT）
+
+# Pangle 广告 SDK（字节跳动）
+DOMAIN-SUFFIX,tiktokpangle.us
