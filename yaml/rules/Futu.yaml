@@ -102,6 +102,7 @@ payload:
   - IP-CIDR,101.32.143.6/32,no-resolve
   - IP-CIDR,101.32.143.93/32,no-resolve
   - IP-CIDR,101.32.198.103/32,no-resolve
+  - IP-CIDR,101.32.217.2/32,no-resolve
   - IP-CIDR,101.32.217.91/32,no-resolve
   - IP-CIDR,101.33.43.3/32,no-resolve
   - IP-CIDR,101.33.46.221/32,no-resolve
