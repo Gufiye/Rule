@@ -51,3 +51,9 @@ payload:
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,beizi.biz
   - DOMAIN-SUFFIX,1rtb.net
+  - DOMAIN-SUFFIX,sigmob.cn
+  - DOMAIN-SUFFIX,sigmob.com
+  - DOMAIN-SUFFIX,adn-plus.com.cn
+  - DOMAIN-SUFFIX,zhangyuyidong.cn
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN,guanggao-prod.cn-shanghai.log.aliyuncs.com
