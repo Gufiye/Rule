@@ -85,3 +85,6 @@ DOMAIN-SUFFIX,adn-plus.com.cn
 DOMAIN-SUFFIX,zhangyuyidong.cn
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN,guanggao-prod.cn-shanghai.log.aliyuncs.com
+
+# 三星广告测量（Galaxy 商店实测，2026-11-03）
+DOMAIN-SUFFIX,ad-survey.com
