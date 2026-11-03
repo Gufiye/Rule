@@ -42,3 +42,7 @@ payload:
   - DOMAIN-SUFFIX,adsensecustomsearchads.com
   - DOMAIN,adtrack.xiaojukeji.com
   - DOMAIN,tracker.didistatic.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,e.qq.com
