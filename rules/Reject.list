@@ -68,3 +68,8 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,e.qq.com
+
+# 穿山甲备用域名/商业化日志 + 友盟统计（酷安实测，2026-11-03）
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,umeng.com
