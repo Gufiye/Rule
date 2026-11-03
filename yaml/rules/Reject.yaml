@@ -1,9 +1,12 @@
 payload:
   - DOMAIN-SUFFIX,tiktokpangle.us
+  - DOMAIN-SUFFIX,tiktokpangle-b.us
+  - DOMAIN-SUFFIX,tiktokpangle-cdn-us.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN,imasdk.googleapis.com
   - DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,9oju31.cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
@@ -18,3 +21,10 @@ payload:
   - DOMAIN-SUFFIX,sdk.fra-01.braze.eu
   - DOMAIN-SUFFIX,sdk-api-v1.singular.net
   - DOMAIN-SUFFIX,api.mixpanel.com
+  - DOMAIN-SUFFIX,unityads.unity3d.com
+  - DOMAIN-SUFFIX,mediation.unity3d.com
+  - DOMAIN-SUFFIX,iads.unity3d.com
+  - DOMAIN-SUFFIX,dsp-api.moloco.com
+  - DOMAIN-SUFFIX,rubiconproject.com
+  - DOMAIN-SUFFIX,vungle.com
+  - DOMAIN-SUFFIX,googlesyndication.com
