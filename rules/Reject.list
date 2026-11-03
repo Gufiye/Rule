@@ -25,6 +25,9 @@ DOMAIN-SUFFIX,sfdyyy.cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,eoktv7.cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,eoktv7.launches.appsflyersdk.com
 
+# Adjust 归因 SDK
+DOMAIN-SUFFIX,adjust.com
+
 # Wise 统计/营销 SDK（源自 CN.list Wise 组，原条目保留）
 DOMAIN-SUFFIX,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
