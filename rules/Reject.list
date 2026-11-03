@@ -43,3 +43,22 @@ DOMAIN-SUFFIX,dsp-api.moloco.com
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,googlesyndication.com
+
+# Pangle 国际版（监控漏网，2026-11-03）
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangle-b.io
+
+# 广告网络/验证（监控漏网，2026-11-03）
+DOMAIN-SUFFIX,af-sdk.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,adsafeprotected.com
+DOMAIN-SUFFIX,braze.com
+
+# 国内广告/追踪（监控漏网，2026-11-03）
+DOMAIN-SUFFIX,shenshiads.com
+DOMAIN-SUFFIX,metricslinks.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,adsensecustomsearchads.com
+DOMAIN,adtrack.xiaojukeji.com
+DOMAIN,tracker.didistatic.com
