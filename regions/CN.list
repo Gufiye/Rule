@@ -160,6 +160,11 @@ DOMAIN-SUFFIX,argotunnel.com
 # 国内推送
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,easytomessage.com
+DOMAIN-SUFFIX,gepush.com
+
+# 一键登录与基础服务
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,httpdns.pro
 
 # Google
 DOMAIN-SUFFIX,gvt1-cn.com
