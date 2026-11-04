@@ -104,3 +104,22 @@ DOMAIN-SUFFIX,volceapplog.com
 DOMAIN,im-x.jd.com
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,zxid-m.mobileservice.cn
+
+# 社区名单补强（2026-11-04，源：AWAvenue/egern/ADlite/SIDmao）
+DOMAIN-SUFFIX,anythinktech.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,rayjump.com
+DOMAIN-SUFFIX,samsungads.com
+DOMAIN-SUFFIX,toponad.com
+DOMAIN-SUFFIX,tradplusad.com
+DOMAIN-SUFFIX,union.baidu.cn
+DOMAIN-SUFFIX,union.baidu.com
+DOMAIN,ad.qq.com
+DOMAIN,bgg.baidu.com
+DOMAIN,cpro.baidustatic.com
+DOMAIN,dsp-x.jd.com
+DOMAIN,eclick.baidu.com
+DOMAIN,h.trace.qq.com
+DOMAIN,mobads-pre-config.cdn.bcebos.com
