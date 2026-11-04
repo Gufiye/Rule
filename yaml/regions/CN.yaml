@@ -92,6 +92,9 @@ payload:
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,jpush.io
   - DOMAIN-SUFFIX,easytomessage.com
+  - DOMAIN-SUFFIX,gepush.com
+  - DOMAIN-SUFFIX,cmpassport.com
+  - DOMAIN-SUFFIX,httpdns.pro
   - DOMAIN-SUFFIX,gvt1-cn.com
   - DOMAIN-SUFFIX,gvt2-cn.com
   - DOMAIN,connectivitycheck.gstatic.com
