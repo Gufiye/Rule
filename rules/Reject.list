@@ -123,3 +123,10 @@ DOMAIN,dsp-x.jd.com
 DOMAIN,eclick.baidu.com
 DOMAIN,h.trace.qq.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
+
+# 补强可选批（2026-11-04）
+DOMAIN,ads-api.duolingo.com
+DOMAIN,hm.baidu.com
+DOMAIN,nmetrics.samsung.com
+DOMAIN,smetrics.samsung.com
+DOMAIN,xlog.jd.com
