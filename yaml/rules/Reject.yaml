@@ -87,3 +87,8 @@ payload:
   - DOMAIN,eclick.baidu.com
   - DOMAIN,h.trace.qq.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
+  - DOMAIN,ads-api.duolingo.com
+  - DOMAIN,hm.baidu.com
+  - DOMAIN,nmetrics.samsung.com
+  - DOMAIN,smetrics.samsung.com
+  - DOMAIN,xlog.jd.com
