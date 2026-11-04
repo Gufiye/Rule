@@ -58,3 +58,11 @@ payload:
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN,guanggao-prod.cn-shanghai.log.aliyuncs.com
   - DOMAIN-SUFFIX,ad-survey.com
+  - DOMAIN-SUFFIX,mobads.baidu.com
+  - DOMAIN-SUFFIX,xdplt.com
+  - DOMAIN,als.baidu.com
+  - DOMAIN,cloud-log.yy.com
+  - DOMAIN,mobads-logs.baidu.com
+  - DOMAIN,nsclick.baidu.com
+  - DOMAIN,otheve.beacon.qq.com
+  - DOMAIN,union-dracoapi.yy.com
