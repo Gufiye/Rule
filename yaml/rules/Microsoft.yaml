@@ -34,7 +34,6 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,tc.mm.bing.net
-  - DOMAIN,msft-ssp.adnxs.com
   - DOMAIN-SUFFIX,public.onecdn.static.microsoft
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,microsoftestore.com.hk
