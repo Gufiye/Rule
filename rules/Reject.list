@@ -88,3 +88,13 @@ DOMAIN,guanggao-prod.cn-shanghai.log.aliyuncs.com
 
 # 三星广告测量（Galaxy 商店实测，2026-11-03）
 DOMAIN-SUFFIX,ad-survey.com
+
+# 百度贴吧（2026-11-04）
+DOMAIN-SUFFIX,mobads.baidu.com
+DOMAIN-SUFFIX,xdplt.com
+DOMAIN,als.baidu.com
+DOMAIN,cloud-log.yy.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,nsclick.baidu.com
+DOMAIN,otheve.beacon.qq.com
+DOMAIN,union-dracoapi.yy.com
