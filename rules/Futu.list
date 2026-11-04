@@ -209,12 +209,13 @@ IP-CIDR,121.5.97.110/32,no-resolve
 IP-CIDR,121.5.99.18/32,no-resolve
 IP-CIDR,121.5.99.180/32,no-resolve
 
-# IP 124.X.X.X(5条)
+# IP 124.X.X.X(6条)
 IP-CIDR,124.156.124.214/32,no-resolve
 IP-CIDR,124.156.124.226/32,no-resolve
 IP-CIDR,124.156.233.21/32,no-resolve
 IP-CIDR,124.156.234.231/32,no-resolve
 IP-CIDR,124.156.235.203/32,no-resolve
+IP-CIDR,124.156.236.125/32,no-resolve
 
 # IP 129.X.X.X(9条)
 IP-CIDR,129.211.156.198/32,no-resolve
