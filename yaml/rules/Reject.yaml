@@ -66,3 +66,7 @@ payload:
   - DOMAIN,nsclick.baidu.com
   - DOMAIN,otheve.beacon.qq.com
   - DOMAIN,union-dracoapi.yy.com
+  - DOMAIN-SUFFIX,volceapplog.com
+  - DOMAIN,im-x.jd.com
+  - DOMAIN,umengacs.m.taobao.com
+  - DOMAIN,zxid-m.mobileservice.cn
