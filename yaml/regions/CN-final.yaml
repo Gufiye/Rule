@@ -4,8 +4,6 @@ payload:
   - IP-ASN,24429,no-resolve
   - IP-ASN,45102,no-resolve
   - IP-ASN,134963,no-resolve
-  - DOMAIN-SUFFIX,eoktv7.cdn-settings.appsflyersdk.com
-  - DOMAIN-SUFFIX,eoktv7.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,rnote.com
   - DOMAIN-SUFFIX,rednotecdn.com
   - IP-ASN,151326,no-resolve
