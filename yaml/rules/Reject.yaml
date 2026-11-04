@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,sfdyyy.cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,eoktv7.cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,eoktv7.launches.appsflyersdk.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,sdk.fra-01.braze.eu
   - DOMAIN-SUFFIX,sdk-api-v1.singular.net
