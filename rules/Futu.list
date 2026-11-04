@@ -49,7 +49,7 @@ IP-CIDR,42.193.217.66/32,no-resolve
 IP-CIDR,42.194.152.250/32,no-resolve
 IP-CIDR,42.194.246.243/32,no-resolve
 
-# IP 43.X.X.X(62条)
+# IP 43.X.X.X(63条)
 IP-CIDR,43.128.254.50/32,no-resolve
 IP-CIDR,43.129.2.94/32,no-resolve
 IP-CIDR,43.129.2.97/32,no-resolve
@@ -102,6 +102,7 @@ IP-CIDR,43.156.223.245/32,no-resolve
 IP-CIDR,43.156.255.66/32,no-resolve
 IP-CIDR,43.156.255.152/32,no-resolve
 IP-CIDR,43.156.255.243/32,no-resolve
+IP-CIDR,43.160.156.172/32,no-resolve
 IP-CIDR,43.162.206.38/32,no-resolve
 IP-CIDR,43.162.206.227/32,no-resolve
 IP-CIDR,43.162.221.26/32,no-resolve
