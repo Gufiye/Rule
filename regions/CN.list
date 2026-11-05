@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,bochk01.etnet.com.hk
 DOMAIN-SUFFIX,bochk02.etnet.com.hk
 DOMAIN-SUFFIX,mds1a.trkd-hs.com
 
-
 # HSBC HK
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,tags.tiqcdn.com
@@ -48,23 +47,12 @@ DOMAIN-SUFFIX,zajourney.com
 IP-CIDR,103.129.255.183/32,no-resolve
 IP-CIDR,103.129.255.221/32,no-resolve
 
-
 # Elebank
 DOMAIN-SUFFIX,airstarbank.com
 DOMAIN-SUFFIX,elebank.com
 
-
 # Ant Bank
 DOMAIN-SUFFIX,antbank.hk
-
-
-# 八达通
-DOMAIN-SUFFIX,octopuscards.com
-DOMAIN-SUFFIX,octopus-cards.com
-DOMAIN-SUFFIX,octopus.com.hk
-DOMAIN,octopus.queue-it.net
-DOMAIN,octopus.data.adobedc.net
-
 
 # =========================
 # 国内银行
@@ -73,19 +61,13 @@ DOMAIN,octopus.data.adobedc.net
 DOMAIN-SUFFIX,cib.com.cn
 DOMAIN-SUFFIX,cibnet.com.cn
 
-
 # 农业银行
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.net
 DOMAIN-KEYWORD,abchina
 
-
 # Wise
 DOMAIN-SUFFIX,wise.com
-
-
-
-
 
 # IBKR 
 DOMAIN-SUFFIX,ibkr.com
@@ -95,16 +77,10 @@ DOMAIN-SUFFIX,mcgw1.ibllc.com.cn
 DOMAIN-SUFFIX,mcgw1-hb1.ibllc.com.cn
 DOMAIN-SUFFIX,mcgw1-hb2.ibllc.com.cn
 
-
-
-
-
 # 局域网全部直连
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
-
-
 
 # Samsung
 DOMAIN-SUFFIX,galaxyappstore.com
@@ -119,7 +95,6 @@ DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,bixbyllm.com
 DOMAIN-SUFFIX,samqaicongen.com
 DOMAIN,api.knox-matrix.com
-
 
 # 硬件厂商
 # NVIDIA
@@ -138,9 +113,6 @@ DOMAIN-SUFFIX,intel.com.cn
 # ASUS
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,asus.com.cn
-
-
-
 
 # BeeSIM
 DOMAIN-SUFFIX,beeesim.com
