@@ -114,3 +114,5 @@ payload:
   - DOMAIN,adashx.m.taobao.com
   - DOMAIN,px.ucweb.com
   - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN,ads-img-al.xhscdn.com
+  - DOMAIN,flash.xiaohongshu.com
