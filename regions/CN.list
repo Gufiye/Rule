@@ -143,3 +143,6 @@ DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN,connectivitycheck.gstatic.com
 DOMAIN,time.android.com
+
+# 博时基金
+DOMAIN-SUFFIX,bsbravetroops.com
