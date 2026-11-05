@@ -154,3 +154,7 @@ DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,adashx.m.taobao.com
 DOMAIN,px.ucweb.com
 DOMAIN,static.cloudflareinsights.com
+
+# 小红书（2026-11-05 用户改口要拦）
+DOMAIN,ads-img-al.xhscdn.com
+DOMAIN,flash.xiaohongshu.com
