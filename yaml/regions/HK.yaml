@@ -20,4 +20,9 @@ payload:
   - DOMAIN,opgg-static.akamaized.net
   - DOMAIN,opgg.rybbit.com
   - DOMAIN-SUFFIX,asuscomm.com
+  - DOMAIN-SUFFIX,octopuscards.com
+  - DOMAIN-SUFFIX,octopus-cards.com
+  - DOMAIN-SUFFIX,octopus.com.hk
+  - DOMAIN,octopus.queue-it.net
+  - DOMAIN,octopus.data.adobedc.net
   - DOMAIN-SUFFIX,hk
