@@ -35,5 +35,8 @@ DOMAIN-SUFFIX,op.gg
 DOMAIN,opgg-static.akamaized.net
 DOMAIN,opgg.rybbit.com
 
+# ASUS
+DOMAIN-SUFFIX,asuscomm.com
+
 # 香港域名
 DOMAIN-SUFFIX,hk
