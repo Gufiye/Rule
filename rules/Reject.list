@@ -186,3 +186,6 @@ DOMAIN,mars.jd.com
 DOMAIN,knicks.jd.com
 DOMAIN,dgstatic.jd.com
 DOMAIN,mapi.m.jd.com
+
+# 百度广告补漏（2026-11-05 贴吧截图）
+DOMAIN,ada.baidu.com
