@@ -39,5 +39,12 @@ DOMAIN,opgg.rybbit.com
 # ASUS
 DOMAIN-SUFFIX,asuscomm.com
 
+# 八达通
+DOMAIN-SUFFIX,octopuscards.com
+DOMAIN-SUFFIX,octopus-cards.com
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN,octopus.queue-it.net
+DOMAIN,octopus.data.adobedc.net
+
 # 香港域名
 DOMAIN-SUFFIX,hk
