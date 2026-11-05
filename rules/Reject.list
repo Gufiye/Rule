@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,appsflyersdk.com
 
 # Adjust 归因 SDK
 DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,confiant-integrations.net
 
 # Wise 统计/营销 SDK（源自 CN.list Wise 组，原条目保留）
 DOMAIN-SUFFIX,sdk.fra-01.braze.eu
