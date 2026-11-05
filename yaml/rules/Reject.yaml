@@ -134,3 +134,7 @@ payload:
   - DOMAIN,bat.bing.com
   - DOMAIN,www.clarity.ms
   - DOMAIN,g.cn.miaozhen.com
+  - DOMAIN,mars.jd.com
+  - DOMAIN,knicks.jd.com
+  - DOMAIN,dgstatic.jd.com
+  - DOMAIN,mapi.m.jd.com
