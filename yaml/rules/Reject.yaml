@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,eoktv7.launches.appsflyersdk.com
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,adjust.io
+  - DOMAIN-SUFFIX,confiant-integrations.net
   - DOMAIN-SUFFIX,sdk.fra-01.braze.eu
   - DOMAIN-SUFFIX,sdk-api-v1.singular.net
   - DOMAIN-SUFFIX,api.mixpanel.com
