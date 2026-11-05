@@ -15,4 +15,7 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,tradingviewstore.com
   - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,op.gg
+  - DOMAIN,opgg-static.akamaized.net
+  - DOMAIN,opgg.rybbit.com
   - DOMAIN-SUFFIX,hk
