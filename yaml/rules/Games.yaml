@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,riotesports.com
   - DOMAIN-SUFFIX,lolesports.com
   - DOMAIN-SUFFIX,lolstatic-a.akamaihd.net
+  - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,playvalorant.com
   - DOMAIN-SUFFIX,teamfighttactics.com
   - DOMAIN-SUFFIX,playruneterra.com
