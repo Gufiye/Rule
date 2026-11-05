@@ -16,8 +16,8 @@ DOMAIN,proactivebackend-pa.googleapis.com
 # Antigravity
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
-DOMAIN,antigravity-hub-auto-updater-974169037036.us-central1.run.app
 DOMAIN-SUFFIX,aiplatform.googleapis.com
+DOMAIN,antigravity-hub-auto-updater-974169037036.us-central1.run.app
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 
@@ -38,8 +38,8 @@ DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,googlezip.net
-DOMAIN,ohttp-relay-safebrowsing-android.google.fastly-edge.com
 DOMAIN-SUFFIX,g.co
+DOMAIN,ohttp-relay-safebrowsing-android.google.fastly-edge.com
 
 # 安卓 / Play
 DOMAIN-SUFFIX,android.com
