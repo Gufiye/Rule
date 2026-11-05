@@ -34,6 +34,8 @@ payload:
   - DOMAIN-SUFFIX,pangle-b.io
   - DOMAIN-SUFFIX,af-sdk.com
   - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN-SUFFIX,presage.io
   - DOMAIN-SUFFIX,adnxs.com
   - DOMAIN-SUFFIX,adsafeprotected.com
   - DOMAIN-SUFFIX,braze.com
