@@ -30,5 +30,10 @@ DOMAIN-SUFFIX,tradingviewstore.com
 # IBKR
 DOMAIN-SUFFIX,interactivebrokers.com
 
+# OP.GG
+DOMAIN-SUFFIX,op.gg
+DOMAIN,opgg-static.akamaized.net
+DOMAIN,opgg.rybbit.com
+
 # 香港域名
 DOMAIN-SUFFIX,hk
