@@ -136,3 +136,21 @@ DOMAIN,hm.baidu.com
 DOMAIN,nmetrics.samsung.com
 DOMAIN,smetrics.samsung.com
 DOMAIN,xlog.jd.com
+
+# AGH 高频拦截补强（2026-11-05）
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,nex.163.com
+DOMAIN,mobile.events.data.microsoft.com
+DOMAIN,self.events.data.microsoft.com
+DOMAIN,eu-mobile.events.data.microsoft.com
+DOMAIN,functional.events.data.microsoft.com
+DOMAIN,mobile.pipe.aria.microsoft.com
+DOMAIN,ogads-pa.clients6.google.com
+DOMAIN,m.analytics.126.net
+DOMAIN,tracking.miui.com
+DOMAIN,h-adashx.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
+DOMAIN,px.ucweb.com
+DOMAIN,static.cloudflareinsights.com
