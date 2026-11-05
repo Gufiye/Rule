@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redditstatic.com
