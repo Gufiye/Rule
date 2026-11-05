@@ -116,3 +116,21 @@ payload:
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN,ads-img-al.xhscdn.com
   - DOMAIN,flash.xiaohongshu.com
+  - DOMAIN,graph.instagram.com
+  - DOMAIN,graph-fallback.instagram.com
+  - DOMAIN-SUFFIX,2mdn.net
+  - DOMAIN-SUFFIX,iadsdk.apple.com
+  - DOMAIN-SUFFIX,scorecardresearch.com
+  - DOMAIN,watson.events.data.microsoft.com
+  - DOMAIN,browser.events.data.microsoft.com
+  - DOMAIN,ads-i1.xhscdn.com
+  - DOMAIN,ads-i2.xhscdn.com
+  - DOMAIN,ads-i3.xhscdn.com
+  - DOMAIN,ads-i4.xhscdn.com
+  - DOMAIN,ogads-pa.googleapis.com
+  - DOMAIN,val.atm.youku.com
+  - DOMAIN,norma-external-collect.meizu.com
+  - DOMAIN,sdk.51.la
+  - DOMAIN,bat.bing.com
+  - DOMAIN,www.clarity.ms
+  - DOMAIN,g.cn.miaozhen.com
