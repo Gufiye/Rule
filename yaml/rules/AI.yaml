@@ -10,11 +10,11 @@ payload:
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-  - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN,o33249.ingest.sentry.io
   - IP-CIDR,20.168.48.117/32,no-resolve
   - IP-CIDR,40.118.236.137/32,no-resolve
   - IP-CIDR,4.155.146.196/32,no-resolve
