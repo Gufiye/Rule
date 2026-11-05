@@ -93,6 +93,7 @@ payload:
   - DOMAIN-SUFFIX,cmpassport.com
   - DOMAIN-SUFFIX,httpdns.pro
   - DOMAIN-SUFFIX,fengkongcloud.com
+  - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,gvt1-cn.com
   - DOMAIN-SUFFIX,gvt2-cn.com
   - DOMAIN,connectivitycheck.gstatic.com
