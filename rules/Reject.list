@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,mediation.unity3d.com
 DOMAIN-SUFFIX,iads.unity3d.com
+DOMAIN,engine-data.unity3d.com
 
 # 其他广告网络（Duolingo 实测，2026-11-03）
 DOMAIN-SUFFIX,dsp-api.moloco.com
