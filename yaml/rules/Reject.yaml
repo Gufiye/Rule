@@ -142,3 +142,4 @@ payload:
   - DOMAIN,ada.baidu.com
   - DOMAIN,qchannel03.cn
   - DOMAIN,pok.mintegral.net
+  - DOMAIN,metadata.google.internal
