@@ -66,6 +66,7 @@ payload:
   - IP-CIDR,43.153.191.80/32,no-resolve
   - IP-CIDR,43.153.191.154/32,no-resolve
   - IP-CIDR,43.153.233.58/32,no-resolve
+  - IP-CIDR,43.153.233.62/32,no-resolve
   - IP-CIDR,43.153.233.103/32,no-resolve
   - IP-CIDR,43.153.233.166/32,no-resolve
   - IP-CIDR,43.153.233.181/32,no-resolve
