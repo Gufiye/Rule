@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,unityads.unity3d.com
   - DOMAIN-SUFFIX,mediation.unity3d.com
   - DOMAIN-SUFFIX,iads.unity3d.com
+  - DOMAIN,engine-data.unity3d.com
   - DOMAIN-SUFFIX,dsp-api.moloco.com
   - DOMAIN-SUFFIX,rubiconproject.com
   - DOMAIN-SUFFIX,vungle.com
