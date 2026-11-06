@@ -12,6 +12,20 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,imasdk.googleapis.com
 
+# AppsFlyer 归因 SDK（源自 Futu/CN/CN-final 各 App 分组，原条目保留）
+DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
+DOMAIN-SUFFIX,9oju31.cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
+DOMAIN-SUFFIX,sgqt0j.cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,zmr2l0.inapps.appsflyersdk.com
+DOMAIN-SUFFIX,zmr2l0.launches.appsflyersdk.com
+DOMAIN-SUFFIX,zmr2l0.cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,sfdyyy.launches.appsflyersdk.com
+DOMAIN-SUFFIX,sfdyyy.cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,eoktv7.cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,eoktv7.launches.appsflyersdk.com
+DOMAIN-SUFFIX,appsflyersdk.com
+
 # Adjust 归因 SDK
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
