@@ -82,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,asus.com.cn
   - DOMAIN-SUFFIX,beeesim.com
   - DOMAIN-SUFFIX,mijia.tech
+  - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,aweme.snssdk.com
   - DOMAIN-SUFFIX,0xethan.com
   - DOMAIN-SUFFIX,argotunnel.com
