@@ -196,3 +196,6 @@ DOMAIN,qchannel03.cn
 
 # Mintegral 广告 SDK（2026-11-06 OP.GG 截图）
 DOMAIN,pok.mintegral.net
+
+# 云元数据探测
+DOMAIN,metadata.google.internal
