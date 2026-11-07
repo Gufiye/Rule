@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,eac-cdn.com
 # EA 游戏下载 CDN（强制直连，防几十 G 更新烧代理流量）
 DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,eaassets-a.akamaihd.net
+
+# Moonlight 串流（香港家宽主机，2026-11-08）
+IP-CIDR,123.202.90.94/32,no-resolve
