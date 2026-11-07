@@ -212,3 +212,6 @@ DOMAIN,ureca-evo.ureca-lab.com
 
 # ToBid 聚合广告（2026-11-08 养基宝截图，Sigmob 家）
 DOMAIN-SUFFIX,tobidad.cn
+
+# Branch 归因（2026-11-08 Spotify 截图）
+DOMAIN-SUFFIX,branch.io
