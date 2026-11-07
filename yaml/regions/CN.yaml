@@ -72,6 +72,7 @@ payload:
   - DOMAIN-SUFFIX,smartthings.com
   - DOMAIN-SUFFIX,bixbyllm.com
   - DOMAIN-SUFFIX,samqaicongen.com
+  - DOMAIN-SUFFIX,sec-smartswitch.com
   - DOMAIN,api.knox-matrix.com
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidia.cn
