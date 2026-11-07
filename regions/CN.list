@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,match.adsrvr.org
 DOMAIN-SUFFIX,hsbc.edge.sdk.awswaf.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,we-stats.com
+DOMAIN-SUFFIX,zimperium.com
 DOMAIN,cdn.optimizely.com
 DOMAIN,a19069622224.cdn.optimizely.com
 DOMAIN,logx.optimizely.com
