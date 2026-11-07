@@ -206,3 +206,6 @@ DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,mcdn.bilivideo.com
 DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,mountaintoys.cn
+
+# 三星 Ureca（2026-11-07 Galaxy Store 截图，试拦）
+DOMAIN,ureca-evo.ureca-lab.com
