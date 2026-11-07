@@ -199,3 +199,10 @@ DOMAIN,pok.mintegral.net
 
 # 云元数据探测
 DOMAIN,metadata.google.internal
+
+# Bilibili PCDN（2026-11-07，拦 PCDN 强制回落正规 CDN）
+DOMAIN-WILDCARD,*pcdn*.biliapi.net
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN-SUFFIX,mcdn.bilivideo.com
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,mountaintoys.cn
