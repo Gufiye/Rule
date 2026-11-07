@@ -42,6 +42,9 @@ payload:
   - DOMAIN-SUFFIX,airstarbank.com
   - DOMAIN-SUFFIX,elebank.com
   - DOMAIN-SUFFIX,antbank.hk
+  - DOMAIN-SUFFIX,ifastgb.com
+  - DOMAIN-SUFFIX,fundsupermart.com
+  - DOMAIN-SUFFIX,fsm.global
   - DOMAIN-SUFFIX,cib.com.cn
   - DOMAIN-SUFFIX,cibnet.com.cn
   - DOMAIN-SUFFIX,abchina.com
