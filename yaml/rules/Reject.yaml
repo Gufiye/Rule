@@ -143,3 +143,8 @@ payload:
   - DOMAIN,qchannel03.cn
   - DOMAIN,pok.mintegral.net
   - DOMAIN,metadata.google.internal
+  - DOMAIN-WILDCARD,*pcdn*.biliapi.net
+  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
+  - DOMAIN-SUFFIX,mcdn.bilivideo.com
+  - DOMAIN-SUFFIX,szbdyd.com
+  - DOMAIN-SUFFIX,mountaintoys.cn
