@@ -56,6 +56,15 @@ DOMAIN-SUFFIX,elebank.com
 DOMAIN-SUFFIX,antbank.hk
 
 # =========================
+# 英国银行
+# =========================
+
+# iFAST Global Bank
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,fsm.global
+
+# =========================
 # 国内银行
 # =========================
 # 兴业银行
