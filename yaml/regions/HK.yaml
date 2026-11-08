@@ -26,4 +26,6 @@ payload:
   - DOMAIN-SUFFIX,octopus.com.hk
   - DOMAIN,octopus.queue-it.net
   - DOMAIN,octopus.data.adobedc.net
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,hk
