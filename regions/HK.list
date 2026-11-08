@@ -47,5 +47,9 @@ DOMAIN-SUFFIX,octopus.com.hk
 DOMAIN,octopus.queue-it.net
 DOMAIN,octopus.data.adobedc.net
 
+# Wikipedia
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
+
 # 香港域名
 DOMAIN-SUFFIX,hk
