@@ -3,9 +3,6 @@
 # TruthSocial
 DOMAIN-SUFFIX,truthsocial.com
 
-# 美国域名
-DOMAIN-SUFFIX,us
-
 # Cloudflare
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
@@ -50,3 +47,6 @@ DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
+
+# 美国域名
+DOMAIN-SUFFIX,us
