@@ -218,3 +218,11 @@ DOMAIN-SUFFIX,branch.io
 
 # 快手广告（2026-11-08 AK加速器截图）
 DOMAIN-SUFFIX,adkwai.com
+
+# Grok 内嵌追踪（StackAdapt 广告标签 / Hightouch 埋点 / GTM 服务端标签中转）
+DOMAIN-SUFFIX,stackadapt.com
+DOMAIN-SUFFIX,hightouch-events.com
+DOMAIN,sgtm-prod-985009374134.us-central1.run.app
+
+# 友盟日志上报
+DOMAIN,cnlogs.umengcloud.com
