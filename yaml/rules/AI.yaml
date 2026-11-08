@@ -18,6 +18,7 @@ payload:
   - IP-CIDR,20.168.48.117/32,no-resolve
   - IP-CIDR,40.118.236.137/32,no-resolve
   - IP-CIDR,4.155.146.196/32,no-resolve
+  - IP-CIDR,4.255.228.31/32,no-resolve
   - DOMAIN-SUFFIX,revenuecat.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
