@@ -1,6 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,truthsocial.com
-  - DOMAIN-SUFFIX,us
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,cf-ns.com
   - DOMAIN-SUFFIX,cf-ns.net
@@ -44,3 +43,4 @@ payload:
   - DOMAIN-SUFFIX,videodelivery.net
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN-SUFFIX,us
