@@ -152,3 +152,7 @@ payload:
   - DOMAIN-SUFFIX,tobidad.cn
   - DOMAIN-SUFFIX,branch.io
   - DOMAIN-SUFFIX,adkwai.com
+  - DOMAIN-SUFFIX,stackadapt.com
+  - DOMAIN-SUFFIX,hightouch-events.com
+  - DOMAIN,sgtm-prod-985009374134.us-central1.run.app
+  - DOMAIN,cnlogs.umengcloud.com
