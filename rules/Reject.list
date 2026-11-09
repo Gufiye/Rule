@@ -226,3 +226,6 @@ DOMAIN,sgtm-prod-985009374134.us-central1.run.app
 
 # 友盟日志上报
 DOMAIN,cnlogs.umengcloud.com
+
+# Adobe 标签管理（DTM 统计/营销标签）
+DOMAIN-SUFFIX,adobedtm.com
