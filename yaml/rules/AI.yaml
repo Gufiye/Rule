@@ -43,6 +43,7 @@ payload:
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,browser-intake-us5-datadoghq.com
   - DOMAIN,cdn.usefathom.com
+  - DOMAIN,api3.siftscience.com
   - IP-CIDR,160.79.104.0/21,no-resolve
   - IP-CIDR6,2607:6bc0::/32,no-resolve
   - IP-ASN,399358,no-resolve
