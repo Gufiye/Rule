@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,datadog.pool.ntp.org
   - DOMAIN,anthropic.auth0.com
   - DOMAIN,anthropic.com.cdn.cloudflare.net
   - DOMAIN,anthropic-com.ghost.io
