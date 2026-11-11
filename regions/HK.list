@@ -29,9 +29,6 @@ DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tradingviewstore.com
 
-# IBKR
-DOMAIN-SUFFIX,interactivebrokers.com
-
 # OP.GG
 DOMAIN-SUFFIX,op.gg
 DOMAIN,opgg-static.akamaized.net
