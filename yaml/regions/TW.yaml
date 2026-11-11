@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,bybit-global.com
   - DOMAIN-SUFFIX,bybit.cloud
   - DOMAIN-SUFFIX,bybitglobal.com
+  - DOMAIN-SUFFIX,bybitx.global
+  - DOMAIN-SUFFIX,ng-dex.com
+  - DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
   - DOMAIN-SUFFIX,byhkbit.com
   - DOMAIN-SUFFIX,turingfraud.net
   - DOMAIN,bybit-exchange.github.io
