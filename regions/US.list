@@ -48,5 +48,11 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 
+# IBKR
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibllc.com
+
 # 美国域名
 DOMAIN-SUFFIX,us
