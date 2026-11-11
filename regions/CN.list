@@ -132,9 +132,6 @@ DOMAIN-SUFFIX,beeesim.com
 # 米家
 DOMAIN-SUFFIX,mijia.tech
 
-# 微信
-DOMAIN-SUFFIX,wechat.com
-
 # 抖音
 DOMAIN-SUFFIX,aweme.snssdk.com
 DOMAIN-SUFFIX,snssdk.com
