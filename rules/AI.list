@@ -34,6 +34,11 @@ DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,servd-anthropic-website.b-cdn.net
 
 # Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
