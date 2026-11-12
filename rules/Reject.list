@@ -230,3 +230,7 @@ DOMAIN,cnlogs.umengcloud.com
 
 # Adobe 标签管理（DTM 统计/营销标签）
 DOMAIN-SUFFIX,adobedtm.com
+
+# 酷安广告/统计 SDK（2026-11-12 FlClash 截图，试拦）
+DOMAIN-SUFFIX,statisticslinks.com
+DOMAIN-SUFFIX,birdgesdk.com
