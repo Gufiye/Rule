@@ -161,3 +161,8 @@ payload:
   - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,statisticslinks.com
   - DOMAIN-SUFFIX,birdgesdk.com
+  - DOMAIN-SUFFIX,mmstat.com
+  - DOMAIN-SUFFIX,tanx.com
+  - DOMAIN,adsmetadata.mobileadexchange.net
+  - DOMAIN,adsmetadata.startappservice.com
+  - DOMAIN,infoevent.startappservice.com
