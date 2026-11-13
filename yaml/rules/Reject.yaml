@@ -150,6 +150,7 @@ payload:
   - DOMAIN-SUFFIX,mountaintoys.cn
   - DOMAIN,ureca-evo.ureca-lab.com
   - DOMAIN,cn-ureca.galaxyappstore.com
+  - DOMAIN,news.ureca-lab.com
   - DOMAIN-SUFFIX,tobidad.cn
   - DOMAIN-SUFFIX,branch.io
   - DOMAIN-SUFFIX,adkwai.com
