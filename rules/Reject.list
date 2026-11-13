@@ -235,3 +235,12 @@ DOMAIN-SUFFIX,adobedtm.com
 # 酷安广告/统计 SDK（2026-11-12 FlClash 截图，试拦）
 DOMAIN-SUFFIX,statisticslinks.com
 DOMAIN-SUFFIX,birdgesdk.com
+
+# 阿里统计与广告交易（2026-11-13 DNS 日报）
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,tanx.com
+
+# StartApp 广告 SDK（2026-11-13 DNS 日报）
+DOMAIN,adsmetadata.mobileadexchange.net
+DOMAIN,adsmetadata.startappservice.com
+DOMAIN,infoevent.startappservice.com
