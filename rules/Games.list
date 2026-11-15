@@ -63,3 +63,6 @@ DOMAIN-SUFFIX,paradoxplaza.com
 
 # Steam 游戏服务器（Valve 东京，实测 UDP 27017，2026-11-15）
 IP-CIDR,45.121.184.23/32,no-resolve
+
+# Xbox / Forza（地平线 5 在线服务，实测 gameservices.fh5，2026-11-15）
+DOMAIN-SUFFIX,forzamotorsport.net
