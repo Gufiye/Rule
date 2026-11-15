@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,steamconnecttest.com
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,supercell.com
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,brawlstarsgame.com
