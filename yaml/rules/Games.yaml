@@ -45,3 +45,4 @@ payload:
   - DOMAIN-SUFFIX,paradox-interactive.com
   - DOMAIN-SUFFIX,paradoxplaza.com
   - IP-CIDR,45.121.184.23/32,no-resolve
+  - DOMAIN-SUFFIX,forzamotorsport.net
