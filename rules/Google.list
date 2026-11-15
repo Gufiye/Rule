@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,googlemaps.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,appspot.com
 
