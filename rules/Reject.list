@@ -244,3 +244,6 @@ DOMAIN-SUFFIX,tanx.com
 DOMAIN,adsmetadata.mobileadexchange.net
 DOMAIN,adsmetadata.startappservice.com
 DOMAIN,infoevent.startappservice.com
+
+# 亚马逊广告（2026-11-15 Speedtest 截图）
+DOMAIN-SUFFIX,amazon-adsystem.com
