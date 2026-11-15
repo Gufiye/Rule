@@ -166,3 +166,4 @@ payload:
   - DOMAIN,adsmetadata.mobileadexchange.net
   - DOMAIN,adsmetadata.startappservice.com
   - DOMAIN,infoevent.startappservice.com
+  - DOMAIN-SUFFIX,amazon-adsystem.com
