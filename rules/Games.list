@@ -60,3 +60,6 @@ DOMAIN-SUFFIX,nkstatic.com
 # Paradox
 DOMAIN-SUFFIX,paradox-interactive.com
 DOMAIN-SUFFIX,paradoxplaza.com
+
+# Steam 游戏服务器（Valve 东京，实测 UDP 27017，2026-11-15）
+IP-CIDR,45.121.184.23/32,no-resolve
