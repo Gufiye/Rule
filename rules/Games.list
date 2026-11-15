@@ -66,3 +66,4 @@ IP-CIDR,45.121.184.23/32,no-resolve
 
 # Xbox / Forza（地平线 5 在线服务，实测 gameservices.fh5，2026-11-15）
 DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,playfabapi.com
