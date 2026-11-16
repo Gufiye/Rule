@@ -48,6 +48,8 @@ payload:
   - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
   - DOMAIN-SUFFIX,byhkbit.com
   - DOMAIN-SUFFIX,turingfraud.net
+  - IP-CIDR,43.160.158.108/32,no-resolve
+  - IP-CIDR,43.135.121.179/32,no-resolve
   - DOMAIN,bybit-exchange.github.io
   - DOMAIN,bybit.ada.support
   - DOMAIN-SUFFIX,hk
