@@ -119,3 +119,4 @@ payload:
   - IP-CIDR,49.51.67.253/32,no-resolve
   - IP-CIDR,49.51.190.94/32,no-resolve
   - IP-CIDR,101.32.171.239/32,no-resolve
+  - IP-CIDR,172.65.64.216/32,no-resolve
