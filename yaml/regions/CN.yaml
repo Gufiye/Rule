@@ -106,3 +106,9 @@ payload:
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,time.android.com
   - DOMAIN-SUFFIX,bsbravetroops.com
+  - IP-CIDR,43.156.86.91/32,no-resolve
+  - IP-CIDR,43.160.156.175/32,no-resolve
+  - IP-CIDR,43.160.156.193/32,no-resolve
+  - IP-CIDR,43.160.156.207/32,no-resolve
+  - IP-CIDR,43.160.157.89/32,no-resolve
+  - IP-CIDR,43.160.158.151/32,no-resolve
