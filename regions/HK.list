@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
 
 # Reddit
 DOMAIN-SUFFIX,reddit.com
