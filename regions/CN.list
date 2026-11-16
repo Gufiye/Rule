@@ -173,3 +173,7 @@ IP-CIDR,43.160.156.193/32,no-resolve
 IP-CIDR,43.160.156.207/32,no-resolve
 IP-CIDR,43.160.157.89/32,no-resolve
 IP-CIDR,43.160.158.151/32,no-resolve
+IP-CIDR,43.175.230.137/32,no-resolve
+IP-CIDR,43.175.230.138/32,no-resolve
+IP-CIDR,49.51.67.253/32,no-resolve
+IP-CIDR,49.51.190.94/32,no-resolve
