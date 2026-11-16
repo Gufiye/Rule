@@ -165,3 +165,11 @@ DOMAIN,time.android.com
 
 # 博时基金
 DOMAIN-SUFFIX,bsbravetroops.com
+
+# WeChat
+IP-CIDR,43.156.86.91/32,no-resolve
+IP-CIDR,43.160.156.175/32,no-resolve
+IP-CIDR,43.160.156.193/32,no-resolve
+IP-CIDR,43.160.156.207/32,no-resolve
+IP-CIDR,43.160.157.89/32,no-resolve
+IP-CIDR,43.160.158.151/32,no-resolve
