@@ -2,13 +2,13 @@
 # ASN直连兜底
 # =========================
 # Tencent域名
-IP-ASN,132203,no-resolve
-IP-ASN,139341,no-resolve
+# IP-ASN,132203,no-resolve
+# IP-ASN,139341,no-resolve
 
 # Alibaba域名
-IP-ASN,24429,no-resolve
-IP-ASN,45102,no-resolve
-IP-ASN,134963,no-resolve
+# IP-ASN,24429,no-resolve
+# IP-ASN,45102,no-resolve
+# IP-ASN,134963,no-resolve
 
 
 # XHS域名
