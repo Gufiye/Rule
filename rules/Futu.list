@@ -288,10 +288,11 @@ IP-CIDR,223.109.212.254/32,no-resolve
 
 
 
-# IP 国内接入点（标注：国内段，2026-11-06 用户要求一并入表）(9条)
+# IP 国内接入点（标注：国内段，2026-11-06 用户要求一并入表）(10条)
 IP-CIDR,106.55.216.230/32,no-resolve
 IP-CIDR,114.222.112.94/32,no-resolve
 IP-CIDR,117.62.243.162/32,no-resolve
+IP-CIDR,119.28.183.68/32,no-resolve
 IP-CIDR,119.147.190.177/32,no-resolve
 IP-CIDR,134.175.255.64/32,no-resolve
 IP-CIDR,180.101.245.13/32,no-resolve
