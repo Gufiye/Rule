@@ -171,6 +171,7 @@ payload:
   - IP-CIDR,124.156.124.214/32,no-resolve
   - IP-CIDR,124.156.124.226/32,no-resolve
   - IP-CIDR,124.156.125.210/32,no-resolve
+  - IP-CIDR,124.156.145.53/32,no-resolve
   - IP-CIDR,124.156.233.21/32,no-resolve
   - IP-CIDR,124.156.234.231/32,no-resolve
   - IP-CIDR,124.156.235.203/32,no-resolve
