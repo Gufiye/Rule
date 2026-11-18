@@ -158,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,hightouch-events.com
   - DOMAIN,sgtm-prod-985009374134.us-central1.run.app
   - DOMAIN,cnlogs.umengcloud.com
+  - DOMAIN,log.umsns.com
   - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,statisticslinks.com
   - DOMAIN-SUFFIX,birdgesdk.com
