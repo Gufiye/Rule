@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibkrguides.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibllc.com
+DOMAIN,www.clientam.com
 
 # 美国域名
 DOMAIN-SUFFIX,us
