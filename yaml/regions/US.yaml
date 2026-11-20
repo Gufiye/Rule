@@ -33,4 +33,5 @@ payload:
   - DOMAIN-SUFFIX,ibkrguides.com
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,ibllc.com
+  - DOMAIN,www.clientam.com
   - DOMAIN-SUFFIX,us
