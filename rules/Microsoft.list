@@ -43,6 +43,7 @@ DOMAIN,config.edge.skype.com
 # 邮箱
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,hotmail.com
+DOMAIN,gateway-outlook.bingviz.com
 
 # 搜索 / 门户
 DOMAIN-SUFFIX,bing.com
