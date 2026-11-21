@@ -31,6 +31,7 @@ payload:
   - DOMAIN,config.edge.skype.com
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN,gateway-outlook.bingviz.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,tc.mm.bing.net
