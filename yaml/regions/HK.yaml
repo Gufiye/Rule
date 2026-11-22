@@ -15,6 +15,8 @@ payload:
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,redditspace.com
+  - DOMAIN-SUFFIX,redditinc.com
+  - DOMAIN-SUFFIX,redditstatus.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,tradingviewstore.com
