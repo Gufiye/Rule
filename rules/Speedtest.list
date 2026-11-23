@@ -27,6 +27,10 @@ DOMAIN-SUFFIX,speedtest.windstream.net
 DOMAIN-SUFFIX,speedtest.frontier.com
 DOMAIN-SUFFIX,melbicom.net
 DOMAIN-SUFFIX,perfectip.net
+DOMAIN-SUFFIX,los-angeles-speedtest.reliablesite.net
+DOMAIN-SUFFIX,speedtest.la3eq.fdcservers.net
+DOMAIN-SUFFIX,la.speedtest.clouvider.net
+DOMAIN-SUFFIX,speedtest.lax1.nitelusa.net
 
 # 韩国测速服务器（Speedtest App 实测：:8080 测量流量）
 DOMAIN-SUFFIX,speedtest.moack.co.kr
