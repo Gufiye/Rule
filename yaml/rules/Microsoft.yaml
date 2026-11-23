@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,vscode-unpkg.net
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,nuget.org
+  - DOMAIN-SUFFIX,in.appcenter.ms
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xboxservices.com
