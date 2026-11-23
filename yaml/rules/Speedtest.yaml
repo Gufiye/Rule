@@ -15,5 +15,9 @@ payload:
   - DOMAIN-SUFFIX,speedtest.frontier.com
   - DOMAIN-SUFFIX,melbicom.net
   - DOMAIN-SUFFIX,perfectip.net
+  - DOMAIN-SUFFIX,los-angeles-speedtest.reliablesite.net
+  - DOMAIN-SUFFIX,speedtest.la3eq.fdcservers.net
+  - DOMAIN-SUFFIX,la.speedtest.clouvider.net
+  - DOMAIN-SUFFIX,speedtest.lax1.nitelusa.net
   - DOMAIN-SUFFIX,speedtest.moack.co.kr
   - DOMAIN-SUFFIX,speedtest.gslnetworks.com
