@@ -116,6 +116,8 @@ payload:
   - DOMAIN,px.ucweb.com
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN,ads-img-al.xhscdn.com
+  - DOMAIN,ads-img-bak.xhscdn.com
+  - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,flash.xiaohongshu.com
   - DOMAIN,graph.instagram.com
   - DOMAIN,graph-fallback.instagram.com
