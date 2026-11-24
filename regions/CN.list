@@ -147,6 +147,11 @@ DOMAIN-SUFFIX,0xethan.com
 # Cloudflare Tunnel
 DOMAIN-SUFFIX,argotunnel.com
 
+# Tailscale
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
+
 # Cloudflarecn
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
