@@ -93,6 +93,9 @@ payload:
   - DOMAIN-SUFFIX,hadezk.com
   - DOMAIN-SUFFIX,0xethan.com
   - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,cf-ns.com
   - DOMAIN-SUFFIX,cf-ns.net
   - DOMAIN-SUFFIX,cf-ns.site
