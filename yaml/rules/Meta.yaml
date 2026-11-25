@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,metaaivm.com
+  - DOMAIN,production.museai.com
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
   - DOMAIN-SUFFIX,oculusvr.com
