@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,meta.ai
 # Muse
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,metaaivm.com
+DOMAIN,production.museai.com
 
 # Oculus / Quest
 DOMAIN-SUFFIX,oculus.com
