@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,threads.net
+  - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,muse.ai
