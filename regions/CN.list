@@ -112,6 +112,7 @@ DOMAIN,api.knox-matrix.com
 # NVIDIA
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nvidia.cn
+DOMAIN-SUFFIX,nvidia.partners
 DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,geforce.cn
 # AMD
