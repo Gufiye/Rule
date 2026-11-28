@@ -74,6 +74,7 @@ payload:
   - DOMAIN,api.knox-matrix.com
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidia.cn
+  - DOMAIN-SUFFIX,nvidia.partners
   - DOMAIN-SUFFIX,geforce.com
   - DOMAIN-SUFFIX,geforce.cn
   - DOMAIN-SUFFIX,amd.com
