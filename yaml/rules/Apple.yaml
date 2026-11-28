@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-livephotoskit.com
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,mac.com
   - DOMAIN-SUFFIX,apple-mapkit.com
